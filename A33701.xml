@@ -1,0 +1,969 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of acids in the cure of diseases farther asserted being an answer to some objections raised against it by Dr. F. Tuthill ... : in which are contained some things relating to the history of blood : as also an attempt to prove what life by John Colbatch ...</title>
+            <author>Colbatch, John, Sir, 1670-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33701</idno>
+            <idno type="STC">Wing C4994</idno>
+            <idno type="STC">ESTC R1962</idno>
+            <idno type="EEBO-CITATION">12628337</idno>
+            <idno type="OCLC">ocm 12628337</idno>
+            <idno type="VID">64693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64693)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 348:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of acids in the cure of diseases farther asserted being an answer to some objections raised against it by Dr. F. Tuthill ... : in which are contained some things relating to the history of blood : as also an attempt to prove what life by John Colbatch ...</title>
+                  <author>Colbatch, John, Sir, 1670-1729.</author>
+                  <author>Tuthill, Francis. Vindication of some objections lately raised against Dr. John Colbatch.</author>
+               </titleStmt>
+               <extent>xvi, 128 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dan. Brown ... and Abel Roper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689 [i.e. 1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface dated: October the 8th, 1697.</note>
+                  <note>Advertisements on p. x and p. 128.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Edmund, d. 1697.</term>
+               <term>Blood --  Analysis --  Early works to 1800.</term>
+               <term>Diseases --  Causes and theories of causation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64693:1"/>
+            <pb facs="tcp:64693:1" rendition="simple:additions"/>
+            <p>THE DOCTRINE of ACIDS IN THE Cure of DISEASES Farther Aſſerted: Being an <hi>Anſwer</hi> to ſome <hi>Ob<g ref="char:EOLhyphen"/>jections</hi> raiſed againſt it by Dr. F. TUTHILL of <hi>Dor<g ref="char:EOLhyphen"/>cheſter</hi> in <hi>Dorſetſhire.</hi> In which are contained ſome things rela<g ref="char:EOLhyphen"/>ting to the <hi>Hiſtory</hi> of <hi>Blood:</hi> As alſo an <hi>Attempt</hi> to prove what <hi>Life</hi> is, and that it is principally ſupported by an <hi>Acid</hi> and <hi>Sulphur.</hi> To which is added an exact <hi>Account</hi> of the <hi>Caſe</hi> of <hi>Edmund Turner</hi> Eſq; deceaſed; as alſo the <hi>Caſe</hi> of another <hi>Gentleman</hi> now living, exactly parallel to Mr. <hi>Turner</hi>'s. <hi>By JOHN COLBATCH, a Member of the College of Phyſicians,</hi> London.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dan. Brown,</hi> at the <hi>Black Swan</hi> and <hi>Bible</hi> without <hi>Temple Bar;</hi> and <hi>Abel Roper</hi> at the <hi>Black-Boy</hi> in <hi>Fleet-ſtreet.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="iii" facs="tcp:64693:2"/>
+            <head>TO THE READER.</head>
+            <p>THE <hi>Hypotheſis</hi> I have advan<g ref="char:EOLhyphen"/>ced being new and contrary to the common received <hi>Opinions</hi> of other <hi>Phyſicians,</hi> a very few excepted, I am every day peſtered with <hi>Objections</hi> of one kind or other; and therefore to ſave my ſelf the labour of writing <hi>Pacquets</hi> of <hi>Letters</hi> every <hi>Poſt-day,</hi> I have thought fit to anſwer thoſe <hi>Objections</hi> that are worth taking notice of in this pub<g ref="char:EOLhyphen"/>lick manner. The <hi>Gentleman</hi> whoſe Letter I have anſwered here, ſeems to be a <hi>Man</hi> of wonderful <hi>Candor</hi> and <hi>In<g ref="char:EOLhyphen"/>genuity;</hi>
+               <pb n="iv" facs="tcp:64693:3"/>and were it but for the ſa<g ref="char:EOLhyphen"/>tisfaction of him only, I ſhould not think my time miſpent: but how<g ref="char:EOLhyphen"/>ever, hoping to do ſervice to the <hi>Publick</hi> by it, I have ſuffered theſe <hi>Papers</hi> to come abroad, as they are. I confeſs they are not ſufficiently poliſhed for publick <hi>View;</hi> and at the ſame time the pains I have been at in compoſing of them is too great to have them confined to the private uſe of one perſon: and for the de<g ref="char:EOLhyphen"/>ficiences, I ſhall endeavour to ſup<g ref="char:EOLhyphen"/>ply them in ſome other <hi>Papers</hi> that ſhall be got ready for the <hi>Preſs</hi> as ſoon as poſſibly I can.</p>
+            <p>He that would paſs the <hi>Courſe</hi> of his <hi>Life</hi> without <hi>Envy,</hi> muſt believe what is generally believed, and ſpeak as others do; and whoever takes upon him to do otherwiſe, let the <hi>Succeſs</hi> of his <hi>Undertaking</hi> be what it will, the <hi>Reward</hi> he is like
+<pb n="v" facs="tcp:64693:3"/>to meet with from the generality of <hi>Mankind,</hi> is to be reproach'd. The enquiry after <hi>Truth</hi> is an <hi>Un<g ref="char:EOLhyphen"/>dertaking</hi> in which little <hi>Aſſiſtance</hi> is to be hoped; and there are ſo many Guards on all the ways that lead to it, that it's a very hard task to break through. 'Tis an antient <hi>Proverb,</hi> that, <hi>Non omnibus licet adire Corinthum.</hi> Whoever intends to o<g ref="char:EOLhyphen"/>vercome ſo many <hi>Difficulties,</hi> can<g ref="char:EOLhyphen"/>not hope to ſucceed, but by his <hi>Diligence, Eagerneſs,</hi> and <hi>Earneſtneſs;</hi> which <hi>Methods</hi> I have purſued as much as the hurry of my <hi>Affairs</hi> would permit me.</p>
+            <p>When I conſider the great Num<g ref="char:EOLhyphen"/>ber and the Potency of my <hi>Adverſa<g ref="char:EOLhyphen"/>ries,</hi> I am ſometimes under the great<g ref="char:EOLhyphen"/>eſt Diſcouragements imaginable; and wiſh that I had either gone on in the common <hi>Road,</hi> or elſe that I had never appeared in publick,
+<pb n="vi" facs="tcp:64693:4"/>but have kept my own <hi>Notions</hi> with<g ref="char:EOLhyphen"/>in the Confines of my own <hi>Breaſt,</hi> and ſo I might have jogged on with<g ref="char:EOLhyphen"/>out Moleſtation. But when I call to my remembrance the <hi>Guilt</hi> which that <hi>Perſon</hi> lay under, who made no Improvement of his one <hi>Talent,</hi> but hid it in a <hi>Napkin,</hi> it diſpels the former Conſiderations, and withal animates me to go on in the Work I have begun; which al<g ref="char:EOLhyphen"/>tho it may create me many <hi>Enemies, Truth</hi> at its firſt appearance never wanting Oppoſers, yet the thoughts of having endeavoured to ſerve my <hi>Generation</hi> to the utmoſt of my Power, gives me that Peace and Satisfaction of <hi>Mind,</hi> that all the united Force of my <hi>Enemies</hi> is not able to deprive me of.</p>
+            <p>I never yet pretended to make People Immortal, my Endeavours having all terminated in this, <hi>viz.</hi>
+               <pb n="vii" facs="tcp:64693:4"/>to be ſerviceable to my fellow <hi>Crea<g ref="char:EOLhyphen"/>tures</hi> in diſtreſs as much as I was able. The wiſe <hi>Man</hi> ſaith, <hi>That no Man hath Power in the Day of Death, and that there is no diſcharge in that War:</hi> The Iſſues of Life and <hi>Death</hi> being only in the hands of the <hi>Al<g ref="char:EOLhyphen"/>mighty.</hi> But I am that unfortunate <hi>Man,</hi> that if I have any <hi>Patient</hi> die once in three or four <hi>Months,</hi> tho perhaps I ſcarce ever preſcribed any thing for them, it is immediately ſpread abroad with all the Induſtry that Malice is capable of, that I have been their <hi>Murderer;</hi> by the means of which Reports I have ſuſtained no ſmall Damage: but however, in ſpite of all this, <hi>Thanks to God,</hi> I every day gain ground, and don't in the leaſt doubt, but in a very little time to get out of the reach of my <hi>Enemies Malice.</hi>
+            </p>
+            <pb n="viii" facs="tcp:64693:5"/>
+            <p>
+               <hi>I</hi> muſt confeſs that I am defici<g ref="char:EOLhyphen"/>ent in ſo many things in reſpect to the ornamentive part of <hi>Learning,</hi> which is ſcarce to be obtained out of the <hi>Univerſities,</hi> that I am altoge<g ref="char:EOLhyphen"/>ther unfit to be a <hi>Champion</hi> in ſo great a Cauſe; but I have ſo much reaſon to be poſitive that the <hi>Hypotheſis I</hi> have advanced is true, that from the Hints <hi>I</hi> have given <hi>I</hi> dare almoſt be confident, that even in my own time the <hi>Cudgels</hi> will be taken up, and the <hi>Hypotheſis</hi> maintained and aſſerted by one who is able to go through-ſtitch with it better than I can. In the ma<g ref="char:EOLhyphen"/>nifeſtation of the greateſt Truths to the <hi>World,</hi> Men of very mean parts are frequently made uſe of to be the firſt <hi>Broachers</hi> of them, but the far<g ref="char:EOLhyphen"/>ther clearing of them is left to Men of the moſt ſubtile and refined parts; and were my <hi>Hypotheſis</hi> but rightly handled, <hi>I</hi> don't doubt but it would
+<pb n="ix" facs="tcp:64693:5"/>prove the moſt Glorious of the kind that ever appeared upon the Stage of the <hi>World.</hi> However, till the thing is undertaken by ſome better Hand, I ſhall not be wanting to proſecute it as far as <hi>I</hi> am able.</p>
+            <p>
+               <hi>I</hi> have one thing to beg of thoſe who ſhall give themſelves the trouble of reading theſe <hi>Papers,</hi> and that is, that they would not paſs a raſh Judgment upon me, but that they will be pleaſed to examine well what <hi>I</hi> have offered both in this and my former Tracts, laying aſide Partiality and Prejudice; and if they find that <hi>I</hi> have not made things ſufficiently clear, if they will but inform me of it, and lay their Doubts before me, <hi>I</hi> will ſpare no Pains to make things yet more clear.</p>
+            <closer>
+               <dateline>Villers-ſtreet <hi>in</hi> York Buildings, <date>October <hi>the 8th,</hi> 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64693:6"/>
+            <head>BOOKS ſold by <hi>Daniel Brown.</hi>
+            </head>
+            <p>FOur Treatiſes of Phyſick and Chirur<g ref="char:EOLhyphen"/>rurgery: <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>1. A Phyſico-Medical Eſſay concerning <hi>Alkaly</hi> and <hi>Acid.</hi>
+               </item>
+               <item>2. Farther Conſiderations by way of <hi>Ap<g ref="char:EOLhyphen"/>pendix</hi> to the ſaid Eſſay.</item>
+               <item>3. <hi>Novum Lumen Chirurgicum,</hi> or a New Light of Chirurgery.</item>
+               <item>4. <hi>Novum Lumen Chirurgicum Vindica<g ref="char:EOLhyphen"/>tum,</hi> or the New Light of Chirurgery vin<g ref="char:EOLhyphen"/>dicated from many unjuſt Aſperſions.</item>
+            </list>
+            <p>
+               <hi>The Second Edition corrected and enlarged.</hi>
+            </p>
+            <p>A Treatiſe of the <hi>Gout,</hi> wherein both its Cauſes and Cure are demonſtrably made appear; to which are added ſome Medi<g ref="char:EOLhyphen"/>cinal Obſervations concerning the Cure of Fevers, <hi>&amp;c.</hi> by the means of <hi>Acids.</hi>
+            </p>
+            <p>All by <hi>John Colbatch,</hi> M. D.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="xi" facs="tcp:64693:6"/>
+            <opener>
+               <dateline>
+                  <hi>Dorcheſter</hi> in Com. Dorſ. <date>Aug. 9. 97.</date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> have peruſed your ingenious <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> of the <hi>Gout;</hi> in which you ſeem to accuſe <hi>Alkalies</hi> as the Original of all <hi>Diſtempers:</hi> Before I ſubſcribe to this <hi>Opinion,</hi> I deſire to be ſatisfied in a few Points. The <hi>Grand Argument</hi> on which you build your <hi>Hypotheſis,</hi> is taken from the green <hi>Colour</hi> of the <hi>Serum</hi> which ariſes from its mixture with <hi>Syrup</hi> of <hi>Violets.</hi> It muſt be confeſt, that <hi>Alka<g ref="char:EOLhyphen"/>lies</hi> uſually give it this <hi>Tincture,</hi> and there may be ſomething of an <hi>Alkaly,</hi> or at leaſt analagous to it, in the <hi>Serum:</hi>
+               <pb n="xii" facs="tcp:64693:7"/>But notwithſtanding this, the many <hi>In<g ref="char:EOLhyphen"/>ferences</hi> which you are pleaſed to draw from this <hi>Phaenomenon,</hi> in my Opinion will hardly hold good. For, <hi>1.</hi> If this <hi>Al<g ref="char:EOLhyphen"/>kalizated Serum</hi> is the Original of <hi>Diſtempers,</hi> then it muſt follow that whereſoever we find this <hi>Serum,</hi> there muſt be likewiſe a <hi>Diſtemper:</hi> Now I appeal to your ſelf if the <hi>Blood</hi> of a healthy Perſon will not give <hi>Syrup</hi> of <hi>Violets</hi> a green Tincture, does not then the <hi>Argument</hi> labour? may we not im<g ref="char:EOLhyphen"/>pute this <hi>Phaenomenon</hi> to ariſe rather from a due mixture of the <hi>Principles,</hi> than from any vitiated Habit of <hi>Blood?</hi> But, ſecondly, there is another way of diſ<g ref="char:EOLhyphen"/>covering an <hi>Alkaly</hi> beſides that of its Ap<g ref="char:EOLhyphen"/>pearance, and that is by its effects, to wit, its <hi>Fermentation</hi> with <hi>Spirit</hi> of <hi>Vitriol.</hi> Now I aver this green <hi>Serum</hi> will not ferment with the aforeſaid <hi>Spirit:</hi> Where<g ref="char:EOLhyphen"/>fore if it be an <hi>Alkaly,</hi> it is an <hi>Alkaly</hi> of a particular nature. It muſt be granted
+<pb n="xiii" facs="tcp:64693:7"/>that we oftentimes find in the <hi>Blood</hi> ſome Particles of a very warm nature predomi<g ref="char:EOLhyphen"/>nant, in which caſes I have found <hi>Acids</hi> to be of great uſe: but whether they are of an <hi>Alkaline</hi> nature or not, I leave the <hi>Learned</hi> to determine. If they are <hi>Alkalies,</hi> then either fixt or Volatile; if fixt, how comes it to paſs, that on the Diſſolution of the <hi>Texture</hi> of the <hi>Blood,</hi> they claim the higheſt Place, and nothing will ſerve their turn, but they muſt needs ſwim in the <hi>Serum?</hi> If volatile, how is it that we many times find this warm <hi>Serum</hi> to be little better than in<g ref="char:EOLhyphen"/>ſipid? Volatile Salts you know are acu<g ref="char:EOLhyphen"/>leated, and affect the Palat ſtrongly. May they not rather be of a ſulphureous Nature, ſince it is the Nature of ſuch Subſtances to ſit uppermoſt on the Diſſolution of <hi>Bodies?</hi> But thirdly, if <hi>Alkalies</hi> are the Original of all <hi>Diſtempers,</hi> whence is it that in <hi>Dropſies, Catarrhs,</hi> ſome <hi>Gouts</hi> and other <hi>Diſtempers,</hi> we find the <hi>Texture</hi>
+               <pb n="xiv" facs="tcp:64693:8"/>of the <hi>Blood</hi> ſo thin? 'Tis obſervable that thoſe <hi>Particles</hi> you term <hi>Alkalies,</hi> the more the <hi>Blood</hi> is ſaturated with them, of the more thick conſiſtence it is, as we ſee in <hi>Pleuriſies, Rheumatiſms,</hi> and other <hi>inflammatory Caſes</hi> (in which <hi>Diſtempers,</hi> if in any, theſe <hi>Alkalies</hi> abound) is not then its <hi>Tenuity</hi> rather to be imputed to <hi>Acids?</hi> Do not <hi>Acids</hi> immediately put the <hi>Blood</hi> in a <hi>Fuſion,</hi> and render it thin? Beſides, if <hi>Alkalies</hi> did always offend and cauſe <hi>Pain,</hi> it muſt follow that <hi>Acids</hi> muſt give eaſe: But I aſſure you I have often experienced the contrary; for upon the exhibition of <hi>Rhe<g ref="char:EOLhyphen"/>niſh, White-wine,</hi> and other <hi>Acids,</hi> I have found the Pains immediately exaſpe<g ref="char:EOLhyphen"/>rated, and many times it has been a long while e're they went off. Again, if the <hi>Gout</hi> proceed from an <hi>Alkaly,</hi> what is the reaſon you uſe ſo much <hi>Saſſafras</hi> in its Cure? Is <hi>Saſſafras</hi> an <hi>Acid,</hi> and ſo proper to ſubdue this <hi>Alkaly?</hi> I have on<g ref="char:EOLhyphen"/>ly
+<pb n="xv" facs="tcp:64693:8"/>a word or two to ſpeak concerning the <hi>green Colour</hi> of Syrup of <hi>Violets,</hi> and ſo I have done. I believe it may be turn<g ref="char:EOLhyphen"/>ed <hi>green</hi> without an <hi>Alkaly:</hi> On the exhibition of it to <hi>Infants</hi> it comes away <hi>green</hi> very often, and brings away a great deal of <hi>green Matter</hi> by ſtool; and yet I believe they do not abound with <hi>Alkalies.</hi> You may read in a late <hi>Author</hi> of undoubt<g ref="char:EOLhyphen"/>ed <hi>Credit,</hi> that upon an <hi>Infant's</hi> ſwallow<g ref="char:EOLhyphen"/>ing of a <hi>Doſe</hi> of <hi>Teſtaceous Pouder,</hi> an extraordinary <hi>Ferment</hi> was raiſed in the <hi>Stomach</hi> of the <hi>Child:</hi> Now how could this <hi>Ferment</hi> be raiſed, if it had not an <hi>Acid</hi> to work upon? Beſides, does not <hi>Experience</hi> ſhew that nothing is ſo pro<g ref="char:EOLhyphen"/>per in <hi>Infants Diſtempers</hi> as <hi>Alkalies?</hi> I have ſome more things to offer; but I deſire you would be pleaſed to ſatiſ<g ref="char:EOLhyphen"/>fy me as to theſe. I ſhould be glad to cloſe with your Opinion, and embrace any thing that is new; for I believe <hi>Medicine,</hi> tho it has met with great
+<pb n="xvi" facs="tcp:64693:9"/>
+               <hi>Improvements</hi> of late, to be capable of far greater. I'll give you no far<g ref="char:EOLhyphen"/>ther trouble, only after <hi>Thanks</hi> to you for your <hi>indefatigable Labour</hi> in ſearching out the Truth of things, ſub<g ref="char:EOLhyphen"/>ſcribe</p>
+            <closer>
+               <signed>Your Humble Servant, F. TUTHILL.</signed>
+            </closer>
+         </div>
+         <div type="medical_treatise">
+            <pb n="1" facs="tcp:64693:9"/>
+            <head>The <hi>Doctrine</hi> of ACIDS in the <hi>Cure</hi> of <hi>DISEASES</hi> farther aſſerted, <hi>&amp;c.</hi>
+            </head>
+            <div type="account">
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>I Have read your <hi>Letter</hi> with all the Pleaſure and Satisfaction imaginable, the <hi>Objections</hi> you have raiſed againſt my <hi>Hypothe<g ref="char:EOLhyphen"/>ſis</hi> being the moſt <hi>ſolid</hi> and <hi>ſubſtantial</hi> I have ever yet met with: And you may aſſure your ſelf that I have ſo great a Value and Eſteem for <hi>Truth,</hi> that I would not dare to contend for any thing which is the Product of my ſhallow Underſtanding, that in the leaſt ſtands in oppoſition to it.
+<pb n="2" facs="tcp:64693:10"/>But as I would not by any means in the World oppoſe <hi>Truth,</hi> ſo at the ſame time I would not be guilty of ſo much <hi>Cowardice,</hi> as to quit its In<g ref="char:EOLhyphen"/>tereſt, becauſe I meet with a multi<g ref="char:EOLhyphen"/>tude of <hi>Oppoſers.</hi> Altho your <hi>Ob<g ref="char:EOLhyphen"/>jections</hi> do carry the faireſt ſhew along with them of any thing I have met with of this kind; yet I don't at all doubt, but very eaſily to clear my ſelf from them, the which I ſhall endeavour to do with as much <hi>Can<g ref="char:EOLhyphen"/>dor</hi> and <hi>Friendſhip</hi> as you propoſe them.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> I have peruſed your in<g ref="char:EOLhyphen"/>genious <hi>Treatiſe</hi> of the <hi>Gout,</hi> in which you ſeem to accuſe <hi>Alkalies</hi> as the <hi>Original</hi> of all <hi>Diſtempers:</hi> Before I ſubſcribe to this <hi>Opinion,</hi> I deſire to be ſatisfied in a few Points. The <hi>Grand Argument</hi> on which you build your <hi>Hypotheſis,</hi> is taken from the <hi>green Colour</hi> of the
+<pb n="3" facs="tcp:64693:10"/>
+                     <hi>Serum,</hi> which ariſes from its mixture with <hi>Syrup</hi> of <hi>Violets.</hi> It muſt be confeſt, that <hi>Alkalies</hi> uſually give it this <hi>Tincture,</hi> and there may be ſomething of an <hi>Alkaly,</hi> or at leaſt <hi>analagous</hi> to it, in the <hi>Serum:</hi> But notwithſtanding this, the many <hi>In<g ref="char:EOLhyphen"/>ferences</hi> which you are pleaſed to draw from this <hi>Phaenomenon,</hi> in my opinion will hardly hold good.</p>
+               </q>
+               <p>
+                  <label>Anſwer.</label> As for my accuſing <hi>Al<g ref="char:EOLhyphen"/>kalies</hi> as the Cauſe of all or moſt <hi>Diſ<g ref="char:EOLhyphen"/>tempers,</hi> I muſt confeſs it was a very bold <hi>Undertaking,</hi> eſpecially when by ſo doing, I oppoſed ſuch Multi<g ref="char:EOLhyphen"/>tudes of <hi>Great</hi> and <hi>Learned Men,</hi> who by very ſtrenuous and learned <hi>Argu<g ref="char:EOLhyphen"/>ments</hi> aſſerted the quite contrary; whom I could not ſuppoſe but that I ſhould greatly diſpleaſe, by diſ<g ref="char:EOLhyphen"/>turbing them in the quiet poſſeſſion of an <hi>Opinion</hi> that had long been em<g ref="char:EOLhyphen"/>braced by all ſorts of people. I my
+<pb n="4" facs="tcp:64693:11"/>ſelf, as I elſewhere acknowledg, was formerly as great a <hi>Stickler</hi> for the Uſe of <hi>Alkalies</hi> in the <hi>Cure</hi> of <hi>Diſ<g ref="char:EOLhyphen"/>eaſes,</hi> and did as little believe that they were the <hi>Cauſes</hi> of them, as any one of my <hi>hotteſt Oppoſers</hi> now doth. The <hi>Methods</hi> by which I came to change my Sentiments I ſhall here faithfully relate to you.</p>
+               <p>Whilſt I was fairly jogging on in the ordinary <hi>Method</hi> of <hi>Practice,</hi> a certain <hi>Gentleman</hi> recommended to me a <hi>powerful Acid,</hi> which he told me I might rely upon in the <hi>Cure</hi> of ſome ſorts of <hi>Fevers.</hi> When I con<g ref="char:EOLhyphen"/>ſidered the thing as an <hi>Exalted Acid,</hi> I could ſcarce give the leaſt Credit to what he ſaid, tho at the ſame time I knew he had no deſign to impoſe upon me: however conſidering the fatal <hi>Succeſs</hi> that frequently attended the Uſe of <hi>Alkalies</hi> and <hi>Alexipharmicks,</hi> (which however at that time I durſt not attribute to the <hi>Medicines,</hi> but the
+<pb n="5" facs="tcp:64693:11"/>
+                  <hi>Malignity</hi> of the <hi>Diſtempers</hi>) I was re<g ref="char:EOLhyphen"/>ſolved, upon the firſt <hi>poor Patient</hi> I had in a <hi>Fever,</hi> to try what the forementioned <hi>Acid</hi> would do; and after a <hi>Multitude</hi> of <hi>Trials,</hi> both upon <hi>Poor</hi> and <hi>Rich,</hi> I found I could by the means of my <hi>Acid</hi> cure moſt ſorts of <hi>Fevers</hi> much more effectually and certainly than ever I before could by the means of <hi>Alkalies</hi> and <hi>Alexiphar<g ref="char:EOLhyphen"/>micks.</hi> The Effects of this <hi>Medicine,</hi> (which is a very cheap one, and known to every body) back'd with ſome other <hi>Obſervations,</hi> put me upon thinking that <hi>Fevers</hi> and other <hi>Diſtem<g ref="char:EOLhyphen"/>pers</hi> did not proceed from the <hi>Blood's</hi> abounding with <hi>Acid Particles,</hi> but on the contrary with <hi>Alkalious</hi> ones: for if it had abounded with <hi>Acids,</hi> the giving of more <hi>Acids</hi> muſt have aggra<g ref="char:EOLhyphen"/>vated the <hi>Symptoms,</hi> whereas on the contrary, I found by the means of my ſimple <hi>Acid</hi> (which however was communicated to me as the greateſt
+<pb n="6" facs="tcp:64693:12"/>
+                  <hi>Secret</hi>) I could take off the moſt <hi>dreadful Symptoms</hi> attending moſt <hi>Fe<g ref="char:EOLhyphen"/>vers</hi> with all the Eaſe imagina<g ref="char:EOLhyphen"/>ble. Upon which being greatly in love with <hi>Chymiſtry</hi> and <hi>Chymical Opera<g ref="char:EOLhyphen"/>tions;</hi> and having a convenient <hi>La<g ref="char:EOLhyphen"/>boratory,</hi> and all Neceſſaries at hand, I was reſolved to examin the <hi>Blood</hi> of <hi>Perſons</hi> in all <hi>Diſtempers</hi> as faſt as I could conveniently procure it, to ſee what <hi>Subſtances</hi> abounded; and after a mul<g ref="char:EOLhyphen"/>titude of <hi>Experiments</hi> in moſt <hi>Caſes,</hi> I could never find any reaſon to charge <hi>Acids</hi> in any one. And that I may not be defective in my <hi>Duty</hi> to ſo friendly and ingenious an <hi>Objector,</hi> I ſhall here trouble you with ſome of my firſt <hi>Experiments.</hi>
+               </p>
+            </div>
+            <div n="1" type="account_of_experiment">
+               <pb n="7" facs="tcp:64693:12"/>
+               <head>Experiment <hi>I.</hi>
+               </head>
+               <p>
+                  <hi>JUly</hi> the <hi>fifteenth</hi> I committed to <hi>Diſ<g ref="char:EOLhyphen"/>tillation</hi> the <hi>Blood</hi> of a <hi>corpulent La<g ref="char:EOLhyphen"/>dy</hi> of a <hi>ſanguine Complexion,</hi> who eats and drinks highly, and who had for<g ref="char:EOLhyphen"/>merly had for ſome <hi>Years</hi> together an <hi>inveterate Leproſy,</hi> which I cured by <hi>Cinnabarine Medicines,</hi> &amp;c. But at that time ſhe had a <hi>ſevere Fit</hi> of a <hi>Rheu<g ref="char:EOLhyphen"/>matiſm,</hi> occaſioned by <hi>Cold</hi> taking. This <hi>Blood</hi> and <hi>Serum,</hi> as it came out of the <hi>Veins,</hi> weighed <hi>two Ounces, one Dram:</hi> I obtained from it <hi>nine Drams</hi> of a clear <hi>Phlegmy Liquor</hi> a little im<g ref="char:EOLhyphen"/>pregnated with <hi>Volatile Alkalious Salt,</hi> which altho it was ſcarce manifeſt to the <hi>Taſte,</hi> yet it might readily be diſ<g ref="char:EOLhyphen"/>cerned by pouring a little of it upon ſome good <hi>Syrup</hi> of <hi>Violets,</hi> which it preſently would turn <hi>green.</hi> Beſides
+<pb n="8" facs="tcp:64693:13"/>which <hi>Phlegmy Liquor,</hi> I obtained <hi>five Drams ten Grains</hi> of a ſtrong <hi>Volatile Alkalious Spirit,</hi> as ſtrong as the <hi>Spirit</hi> of <hi>Harts-horn</hi> uſually ſold in the <hi>Shops; ſixty five Grains</hi> of <hi>fetid Oil;</hi> and in the bottom of the <hi>Retort</hi> there remained <hi>ſeventy Grains</hi> of a light <hi>Caput Mortuum.</hi>
+               </p>
+            </div>
+            <div n="2" type="account_of_experiment">
+               <head>Experiment <hi>II.</hi>
+               </head>
+               <p>
+                  <hi>JUly</hi> the <hi>thirtieth</hi> I committed to <hi>Diſtillation ſeven Ounces three Drams</hi> of the <hi>Blood</hi> of a <hi>Woman,</hi> who had for about <hi>three Weeks</hi> laboured under great <hi>Obſtructions</hi> of her <hi>Nerves;</hi> ſhe had a <hi>Laſsitude</hi> and <hi>Faintneſs</hi> upon her, and in this time from <hi>Fatneſs</hi> ſhe became ve<g ref="char:EOLhyphen"/>ry lean, and ſo weak as not to be able to go about the <hi>Houſe;</hi> ſhe likewiſe complained of a wonderful <hi>Coldneſs</hi> and <hi>Numbneſs</hi> in her <hi>Head,</hi> and was ſo deaf as not to hear any thing un<g ref="char:EOLhyphen"/>leſs
+<pb n="9" facs="tcp:64693:13"/>People ſpake very loud to her. She had always before this <hi>Illneſs</hi> been uſed to eat and drink well, and was of a <hi>Conſtitution</hi> ſomewhat <hi>Phlegmatick.</hi> This <hi>ſeven Ounces three Drams</hi> of <hi>Blood, Serum,</hi> and all together, ſuch as it came out of the <hi>Veins</hi> without ſtanding to putrefy, afforded <hi>four Ounces five Drams</hi> of <hi>Phlegm,</hi> and in the <hi>Neck</hi> of the <hi>Receiver</hi> that caught the <hi>Phlegm</hi> a few <hi>Grains</hi> of <hi>Volatile Salt</hi> in a dry form, with which the <hi>Phlegm</hi> was ſo impregnated, that it would readily turn <hi>Syrup</hi> of <hi>Violets green. One Ounce five Drams</hi> and 15 <hi>Grains</hi> of a ſtrong <hi>Volatile Alkaline Spirit, two Drams ſix Grains</hi> of <hi>fetid Oil,</hi> and in the bottom of the <hi>Retort</hi> there remained <hi>two Drams two Scruples</hi> of a very light <hi>Caput Mortuum.</hi>
+               </p>
+            </div>
+            <div n="3" type="account_of_experiment">
+               <pb n="10" facs="tcp:64693:14"/>
+               <head>Experiment <hi>III.</hi>
+               </head>
+               <p>
+                  <hi>AUguſt</hi> the <hi>firſt</hi> I committed to <hi>Diſtillation two Ounces</hi> and a half of the <hi>Blood</hi> of a <hi>Perſon</hi> in a deep <hi>Conſumption,</hi> who had a conſtant <hi>Hectick,</hi> and coughed much, bring<g ref="char:EOLhyphen"/>ing up by <hi>Coughing</hi> a great quantity of <hi>purulent Matter:</hi> He was worn a<g ref="char:EOLhyphen"/>way to a meer <hi>Skeleton,</hi> his Appetite quite gone, and ſo ſhort-breathed, that he was not able to walk at all: He ſweat much for the firſt part of the <hi>Night,</hi> and when the <hi>Sweats</hi> left him, he burnt prodigiouſly. It pro<g ref="char:EOLhyphen"/>duced <hi>one Ounce ſix Drams</hi> of <hi>Phlegm, three Drams</hi> and a half of a <hi>ſtrong Alkaline Spirit, thirty five Grains</hi> of <hi>fe<g ref="char:EOLhyphen"/>tid Oil,</hi> and <hi>ſixty two Grains</hi> of <hi>Caput Mortuum</hi> as light as a Feather.</p>
+            </div>
+            <div n="4" type="account_of_experiment">
+               <pb n="11" facs="tcp:64693:14"/>
+               <head>Experiment <hi>IV.</hi>
+               </head>
+               <p>
+                  <hi>AUguſt</hi> the <hi>fourth</hi> I committed to <hi>Diſtillation</hi> the <hi>Blood</hi> of a <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> who had <hi>ſcrophulous, cancerous Tumours</hi> in <hi>two</hi> parts of his <hi>Body,</hi> which at ſome times would be <hi>ulcerated,</hi> and at other times after the uſe of a cer<g ref="char:EOLhyphen"/>tain <hi>Remedy,</hi> the <hi>Ulcers</hi> would be healed, but the <hi>Tumors</hi> ſtill remained. This <hi>Blood</hi> weighed <hi>three Ounces ſix Drams,</hi> and a <hi>Scruple:</hi> It produced <hi>two Ounces one Dram</hi> of inſipid <hi>Phlegm, ſeven Drams</hi> and a half of <hi>Volatile Alkalious Spirit;</hi> of <hi>fetid Oil forty Grains,</hi> and of <hi>Caput Mortuum one Dram eigh<g ref="char:EOLhyphen"/>teen Grains.</hi>
+               </p>
+            </div>
+            <div n="5" type="account_of_experiment">
+               <pb n="12" facs="tcp:64693:15"/>
+               <head>Experiment <hi>V.</hi>
+               </head>
+               <p>AT the ſame time I committed to <hi>Diſtillation</hi> the <hi>Blood</hi> of a <hi>Gentle<g ref="char:EOLhyphen"/>woman,</hi> who had for many Years been afflicted with the <hi>Stone</hi> in the <hi>Kidneys,</hi> and at that time laboured under the moſt terrible <hi>Fit</hi> of the <hi>Gout</hi> that ever I ſaw: It weighed <hi>two Ounces ſeven Drams, two Scruples</hi> and <hi>ſeven Grains.</hi> It afforded <hi>two Drams</hi> of a moſt <hi>vola<g ref="char:EOLhyphen"/>tile Alkalious Spirit</hi> before the <hi>Phlegm, one Ounce four Drams</hi> of <hi>Phlegm,</hi> and <hi>ſix Drams twelve Grains</hi> of <hi>Volatile Al<g ref="char:EOLhyphen"/>kalious Spirit</hi> of the common ſort; <hi>two Drams</hi> of <hi>fetid Oil,</hi> and <hi>one Dram</hi> and <hi>half</hi> of <hi>Caput Mortuum.</hi> The <hi>Vo<g ref="char:EOLhyphen"/>latile Alkalious Spirit</hi> that came over before the <hi>Phlegm</hi> in this <hi>Experiment,</hi> was what I never ſaw before; but her <hi>Fit</hi> of the <hi>Gout</hi> was alſo the moſt
+<pb n="13" facs="tcp:64693:15"/>extraordinary that ever I met with, there being ſcarce a <hi>Joint</hi> of any of the <hi>extreme Parts</hi> that was not at one and the ſame time affected.</p>
+            </div>
+            <div n="6" type="account_of_experiment">
+               <head>Experiment <hi>VI.</hi>
+               </head>
+               <p>
+                  <hi>AUguſt</hi> the <hi>tenth</hi> I committed to <hi>Diſtillation four Ounces two Drams</hi> of the <hi>Blood</hi> of a <hi>young Man</hi> of a <hi>ſan<g ref="char:EOLhyphen"/>guine Complexion,</hi> and in a ſtate of <hi>Health:</hi> It afforded <hi>two Ounces ſix Drams</hi> of <hi>Phlegm</hi> that was perfectly <hi>inſipid,</hi> and ſo deſtitute of <hi>Volatile Al<g ref="char:EOLhyphen"/>kaly,</hi> that an <hi>Ounce</hi> of it would but juſt diſcolour a very ſmall <hi>quantity</hi> of <hi>Syrup</hi> of <hi>Violets.</hi> It afforded alſo <hi>five Drams</hi> of an <hi>Alkalious Spirit, three Drams</hi> of <hi>heavy Oil,</hi> and <hi>two Drams four Grains</hi> of <hi>Caput Mortuum;</hi> which being broke into ſmall <hi>Atoms,</hi> each <hi>Atom</hi> appeared in my <hi>Microſcope</hi> to
+<pb n="14" facs="tcp:64693:16"/>be ſo many little <hi>Bodies</hi> of <hi>Fire.</hi> This <hi>Phaenomenon</hi> very rarely appears, but when it doth ſo, it is for the moſt part in the <hi>Caput mortuum</hi> of the <hi>Blood</hi> of people in a ſtate of <hi>Health.</hi>
+               </p>
+            </div>
+            <div n="7" type="account_of_experiment">
+               <head>Experiment <hi>VII.</hi>
+               </head>
+               <p>THe ſame day I committed to <hi>Diſtillation</hi> the <hi>Blood</hi> of a <hi>Gentle<g ref="char:EOLhyphen"/>woman,</hi> who for many <hi>Years</hi> had had a ſhort <hi>convulſive Cough,</hi> and always ſubject to an <hi>Obſtruction</hi> of her <hi>Men<g ref="char:EOLhyphen"/>ſes;</hi> ſhe was then big with <hi>Child,</hi> and beſides her <hi>Cough,</hi> ſhe then com<g ref="char:EOLhyphen"/>plained of a <hi>Sickneſs</hi> in her <hi>Stomach,</hi> and a loſs of <hi>Appetite,</hi> with a <hi>lurking Fever,</hi> and an <hi>Inflammation</hi> in her <hi>Face.</hi> It weighed <hi>ſeven Ounces ſix Drams,</hi> and afforded <hi>four Ounces four Drams</hi> and a half of <hi>Phlegm,</hi> impregnated with a highly <hi>Volatile Alkalious Gas,</hi>
+                  <pb n="15" facs="tcp:64693:16"/>that would readily turn <hi>Syrup</hi> of <hi>Vio<g ref="char:EOLhyphen"/>lets green,</hi> and in quantity would <hi>efferveſce</hi> with <hi>Spirit</hi> of <hi>Niter, Sea-Salt, Vitriol,</hi> &amp;c. It afforded alſo <hi>one Ounce four Drams</hi> of highly exalt<g ref="char:EOLhyphen"/>ed <hi>Alkalious</hi> Spirit, one Drop of which would turn a conſiderable quantity of a ſtrong Solution of <hi>Syrup</hi> of <hi>Violets</hi> as green as <hi>Graſs;</hi> a<g ref="char:EOLhyphen"/>bout <hi>ten Grains</hi> of light <hi>Oil</hi> that ſwam upon the Spirit, and <hi>three Drams</hi> of a heavy fetid <hi>Oil,</hi> that ſunk to the bottom of it, and <hi>two Drams two Scruples</hi> of <hi>Caput mortuum.</hi>
+               </p>
+            </div>
+            <div n="8" type="account_of_experiment">
+               <head>Experiment <hi>VIII.</hi>
+               </head>
+               <p>
+                  <hi>AUguſt</hi> the <hi>eleventh</hi> I committed to <hi>Diſtillation three Ounces two Drams</hi> of the <hi>Blood</hi> of a <hi>Man</hi> of a black ſwarthy <hi>Complexion,</hi> and of a highly <hi>ſcorbutical habit</hi> of <hi>Body.</hi> It af<g ref="char:EOLhyphen"/>forded
+<pb n="16" facs="tcp:64693:17"/>
+                  <hi>one Ounce three Drams</hi> and <hi>ten Grains</hi> of <hi>Phlegm,</hi> with a little <hi>vola<g ref="char:EOLhyphen"/>tile Alkalious Gas</hi> mixt with it; <hi>one Ounce fifteen Grains</hi> of a highly ſtrong <hi>Alkalious</hi> Spirit, <hi>two Drams</hi> of fetid <hi>Oil,</hi> which all ſunk to the bottom, and <hi>two Drams</hi> of <hi>Caput mortuum.</hi>
+               </p>
+            </div>
+            <div n="9" type="account_of_experiment">
+               <head>Experiment <hi>IX.</hi>
+               </head>
+               <p>
+                  <hi>AUguſt</hi> the <hi>twelfth</hi> I committed to Diſtillation the <hi>Blood</hi> of a <hi>Maid</hi> of a pale <hi>Complexion,</hi> who had what we call the <hi>Green-ſickneſs:</hi> It weighed <hi>three Ounces ſix Drams,</hi> and afforded <hi>one Ounce ſeven Drams</hi> of <hi>Phlegm,</hi> un<g ref="char:EOLhyphen"/>mixt with <hi>Gas, one Ounce two Drams</hi> and a half of a ſtrong <hi>Alkalious Spirit, one Dram two Scruples</hi> and a half of fe<g ref="char:EOLhyphen"/>tid <hi>Oil,</hi> which all ſunk to the bottom, and <hi>one Dram</hi> and a half of <hi>Caput mortuum.</hi>
+               </p>
+            </div>
+            <div n="10" type="account_of_experiment">
+               <pb n="17" facs="tcp:64693:17"/>
+               <head>Experiment <hi>X.</hi>
+               </head>
+               <p>I Committed to Diſtillation <hi>three Ounces two Drams</hi> of the <hi>Blood</hi> of a very worthy <hi>Gentleman,</hi> who was very <hi>Hypocondriacal,</hi> and had had a very great <hi>Pain</hi> in his <hi>Back</hi> and <hi>Hips</hi> of many <hi>Years,</hi> and once a <hi>month</hi> had violent diſtending <hi>Pains</hi> in his left Side, and at that time was much troubled with <hi>Wind.</hi> It afforded me of an inſipid <hi>Phlegm one Ounce ſix Drams;</hi> of a highly impregnated <hi>Al<g ref="char:EOLhyphen"/>kalious</hi> Spirit <hi>one Ounce two Drams</hi> and a half; of fetid <hi>Oil,</hi> which all ſunk to the bottom, <hi>one Dram ſeventeen Grains;</hi> of <hi>Volatile Alkalious</hi> Salt, which ſtuck in the <hi>Neck</hi> of the <hi>Retort</hi> in a dry form, <hi>ſeventeen Grains;</hi> and of <hi>Caput mortuum one Dram five Grains.</hi>
+               </p>
+            </div>
+            <div n="11" type="account_of_experiment">
+               <pb n="18" facs="tcp:64693:18"/>
+               <head>Experiment <hi>XI.</hi>
+               </head>
+               <p>
+                  <hi>SEptember</hi> the <hi>ninth</hi> I committed to Diſtillation <hi>three Ounces</hi> of the <hi>Blood</hi> of an Honourable <hi>Lady,</hi> who had had for <hi>two Years</hi> a ſcrophulous <hi>Tumor</hi> in one of her <hi>Breaſts,</hi> and of a very ſcorbutick <hi>habit</hi> of <hi>body,</hi> and ſub<g ref="char:EOLhyphen"/>ject to wandring <hi>Pains</hi> and nervous <hi>Obſtructions:</hi> It afforded <hi>one</hi> Ounce <hi>ſix</hi> Drams of <hi>Phlegm, ſix</hi> Drams of ſtrong <hi>Alkalious</hi> Spirit, <hi>one</hi> Dram <hi>ſeven Grains</hi> of fetid <hi>Oil,</hi> and <hi>one</hi> Dram <hi>ten Grains</hi> of <hi>Caput mortuum.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <p>I could add a multitude of <hi>Experi<g ref="char:EOLhyphen"/>ments</hi> of this kind, but they belong<g ref="char:EOLhyphen"/>ing to another <hi>Piece,</hi> I have thought fit to trouble you with no more; and in relation to theſe few, I think it neceſſary to premiſe a few things, that I may make things as clear as may be.</p>
+               <pb n="19" facs="tcp:64693:18"/>
+               <p>To avoid the grand <hi>Objection,</hi> that by expoſing things to violent <hi>Fires</hi> there are new Subſtances produced, which were not exiſtent in the <hi>Concrete</hi> before, (which <hi>Objection</hi> I ſhall take occaſion to make appear to be but a very trifling one) I took the follow<g ref="char:EOLhyphen"/>ing Method, as the only one by which I could moſt clearly ſatisfy my ſelf, being the moſt plain and eaſy one imaginable.</p>
+               <p>I firſt of all put the <hi>Blood</hi> as it came out of the <hi>Veins, Serum,</hi> and all toge<g ref="char:EOLhyphen"/>ther, into a glaſs <hi>Retort</hi> with a very wide <hi>Mouth,</hi> to which I had a <hi>Receiver</hi> adapted as fit as poſſibly I could. I afterwards put my <hi>Retort</hi> into a ſand <hi>Furnace,</hi> under which I made a very gentle <hi>Fire,</hi> which I increaſed by de<g ref="char:EOLhyphen"/>grees, till the Drops began to fall at a<g ref="char:EOLhyphen"/>bout a <hi>Second's</hi> diſtance one from ano<g ref="char:EOLhyphen"/>ther; in which ſtate I continued it, till the <hi>Phlegm</hi> was all come over, and un<g ref="char:EOLhyphen"/>leſs in <hi>one</hi> or <hi>two</hi> very extraordinary
+<pb n="20" facs="tcp:64693:19"/>
+                  <hi>Caſes</hi> I have always found the <hi>Phlegm</hi> come over firſt, which perhaps to ſome may appear a <hi>Paradox,</hi> that what we commonly call <hi>Volatile</hi> Spirit and Salt ſhould not riſe before the <hi>Phlegm;</hi> but upon trial, I am ſure whoever will give themſelves ſo much trouble, will find it true. When it had dropt ſo long that <hi>one</hi> Drop being dropt upon <hi>two</hi> Drams of a ſtrong Solution of Syrup of <hi>Violets</hi> would turn it green, I then changed my <hi>Receiver,</hi> and continued my <hi>Fire</hi> till nothing more would come over; and this laſt I call <hi>Spirit,</hi> having al<g ref="char:EOLhyphen"/>ways a proportion more or leſs of a fe<g ref="char:EOLhyphen"/>tid <hi>Oil</hi> mixt with it. Now what we call Spirit of this kind, is only a pro<g ref="char:EOLhyphen"/>portion of <hi>Volatile Alkalious</hi> Salt mixt with ſo much <hi>Phlegm</hi> as will well diſ<g ref="char:EOLhyphen"/>ſolve it: Therefore I confeſs the moſt nice way of making theſe <hi>Experiments,</hi> is to ſeparate the <hi>Volatile Alkalious</hi> Salt by it ſelf, without any mixture of
+<pb n="21" facs="tcp:64693:19"/>
+                  <hi>Phlegm;</hi> but every <hi>Experiment</hi> requi<g ref="char:EOLhyphen"/>ring a freſh <hi>Veſſel,</hi> and the <hi>Veſſels</hi> themſelves being very chargable, it would be almoſt impoſſible for any private <hi>Man</hi> to make a ſufficient num<g ref="char:EOLhyphen"/>ber of <hi>Experiments</hi> without the aſſiſt<g ref="char:EOLhyphen"/>ance of the <hi>Publick,</hi> which occaſion<g ref="char:EOLhyphen"/>ed me in the <hi>Preface</hi> to my <hi>Tract</hi> of the <hi>Gout,</hi> to propoſe a Publick <hi>Stock</hi> to carry on this Work, to bring things to an abſolute certainty, if poſſible.</p>
+               <p>However, altho theſe <hi>Experiments</hi> are not the moſt accurate that might be made, yet they are plain and eaſy, and are capable of being made by thoſe who want the common <hi>Appara<g ref="char:EOLhyphen"/>tus</hi> for a <hi>Laboratory.</hi> An Iron <hi>Pot</hi> ſet up in the <hi>Corner</hi> of a <hi>Chimny,</hi> with a few <hi>Retorts</hi> and <hi>Receivers,</hi> are all that are neceſſary for the making of theſe <hi>Experiments;</hi> whereas for the other ſort there are required long bolt-<hi>Heads,</hi> each of which will ſerve but for one <hi>Experiment,</hi> with nice <hi>Furnaces,</hi> and
+<pb n="22" facs="tcp:64693:20"/>ſo much other charge and trouble, that few private Men are either ca<g ref="char:EOLhyphen"/>pable or willing to be at, to make ſuch a number of <hi>Experiments</hi> that are requiſite. But by the way I have ſet down, a Man may make a vaſt num<g ref="char:EOLhyphen"/>ber of <hi>Experiments</hi> for a ſmall charge; it is but going by <hi>one Rule</hi> in the ma<g ref="char:EOLhyphen"/>king of them: and I don't ſee, but a Man may act with as much certain<g ref="char:EOLhyphen"/>ty as in the other, only I muſt con<g ref="char:EOLhyphen"/>feſs it is more liable to the <hi>Objections</hi> of <hi>Cavillers;</hi> but for ſuch I have no value, it being only for ſuch candid ingenious Perſons as your ſelf, for whom I am willing to take pains.</p>
+               <p>Let a Man but nicely obſerve to change the <hi>Receiver,</hi> when one <hi>Drop</hi> will turn the Syrup of <hi>Violets</hi> green, and that <hi>Blood</hi> that affords the greateſt quantity of ſuch Spirit afterwards that abounds with ſuch <hi>Particles,</hi> may rea<g ref="char:EOLhyphen"/>ſonably be ſuppoſed, nay I think does certainly appear to abound moſt
+<pb n="23" facs="tcp:64693:20"/>with <hi>Volatile Alkaly,</hi> or at leaſt what by all Mankind is taken to be ſuch, it anſwering all the <hi>Phaenomena</hi> that Spirit of <hi>Harts-horn</hi> and <hi>Salt Armoni<g ref="char:EOLhyphen"/>ack</hi> will do; affecting the <hi>Palat</hi> in the ſame manner, and making an <hi>Efferveſcence</hi> with all ſorts of <hi>Acid</hi> Spirits, ſuch as Spirit and Oil of <hi>Vi<g ref="char:EOLhyphen"/>triol, Sulphur, Sea-Salt, Nitre, Vine<g ref="char:EOLhyphen"/>gar,</hi> &amp;c. Now if ſuch a Subſtance as this be not to be called an <hi>Alkaly,</hi> I ſhould be glad to be informed what is; but it is what I at preſent call ſo for want of a better Name: and that <hi>Blood</hi> that by this ſimple eaſy way of Diſtillation affords the greateſt quan<g ref="char:EOLhyphen"/>tity of Spirit of equal Strength, I cannot forbear to charge with abound<g ref="char:EOLhyphen"/>ing with a greater quantity of <hi>Alkaly</hi> than that which affords leſs. And in examining the foregoing <hi>Experi<g ref="char:EOLhyphen"/>ments,</hi> it plainly appears that the <hi>Blood</hi> of <hi>People</hi> labouring under the <hi>Diſtem<g ref="char:EOLhyphen"/>pers</hi> there mentioned, doth afford a
+<pb n="24" facs="tcp:64693:21"/>much greater quantity than that of the healthy <hi>Perſon;</hi> that of the Perſon in a <hi>Conſumption</hi> affording the leaſt of any of thoſe in a morbid ſtate, for which a very good reaſon may be given: the great quantity of <hi>luxuri<g ref="char:EOLhyphen"/>ant Alkaly</hi> being thrown upon the <hi>Lungs,</hi> which cauſeth the <hi>Ulceration</hi> there, and the diſcharge of ſuch a quantity of <hi>Pus</hi> or <hi>Matter</hi> afterwards as emaciates the <hi>Body</hi> even to a <hi>Skele<g ref="char:EOLhyphen"/>ton.</hi>
+               </p>
+               <p>As for the <hi>Fire's</hi> producing new Subſtances, which were not exiſtent in <hi>Bodies</hi> before, or which is more pertinent to the point in hand, ma<g ref="char:EOLhyphen"/>king <hi>Acids Alkalies</hi> or <hi>Alkalies Acids,</hi> or producing <hi>Alkalies</hi> or <hi>Acids</hi> from Bodies in which they did not exiſt before, I think there is not the leaſt weight in it: I am ſure it is contrary to my <hi>Ex<g ref="char:EOLhyphen"/>perience,</hi> and I believe to the <hi>Experi<g ref="char:EOLhyphen"/>ence</hi> of all inquiſitive <hi>Chymiſts</hi> that have ever gone before me; tho I
+<pb n="25" facs="tcp:64693:21"/>confeſs there have been ſome ſuper<g ref="char:EOLhyphen"/>ficial ones that have dreamt ſuch things; but to the beſt of my ap<g ref="char:EOLhyphen"/>prehenſion, without the leaſt reaſon for ſo doing. I never could find, but manage <hi>Vitriol</hi> in what manner, or with what degree of <hi>Fire</hi> you pleaſe, and it will always produce an <hi>Acid</hi> Spirit; do the ſame by <hi>Harts<g ref="char:EOLhyphen"/>horn, Blood,</hi> &amp;c. and it will always produce an <hi>Alkalious</hi> one, or at leaſt what we call ſo: for if people will cavil about <hi>Words,</hi> we ſhall never have an end of <hi>Controverſies;</hi> and in<g ref="char:EOLhyphen"/>deed moſt of the great <hi>Controverſies</hi> we have had in the World have been more about <hi>Words</hi> than <hi>Things;</hi> Men have contended more earneſtly for the <hi>Shadow</hi> than the <hi>Subſtance.</hi> But my preſent <hi>Controverſy</hi> with my <hi>Wor<g ref="char:EOLhyphen"/>thy Brethren</hi> is not ſuch; our Differ<g ref="char:EOLhyphen"/>ence is whether <hi>Diſeaſes</hi> proceed from the <hi>Blood's</hi> abounding with <hi>Alkalious</hi> or <hi>Acid</hi> Subſtances, things which dif<g ref="char:EOLhyphen"/>fer
+<pb n="26" facs="tcp:64693:22"/>much more than in <hi>Name,</hi> their <hi>Natures</hi> being directly oppoſite one to the other. I confeſs there are ſome who have complained both of me and others that have written concern<g ref="char:EOLhyphen"/>ing <hi>Alkaly</hi> and <hi>Acid,</hi> that we have not ſufficiently explained our ſelves what we mean by thoſe <hi>Names:</hi> This I take to be a Diſpute about <hi>Words</hi> only, ſince there are few People in this day, who upon the firſt view of any of thoſe things of either <hi>Tribe,</hi> eſpecial<g ref="char:EOLhyphen"/>ly of the manifeſt ones, cannot rea<g ref="char:EOLhyphen"/>dily give their <hi>Judgments</hi> to which they belong, and this even amongſt thoſe who are not <hi>Phyſicians:</hi> and therefore altho we may not be able perhaps to give an exact Definition of the <hi>Words;</hi> yet ſince by theſe <hi>Words</hi> all people know we mean ſuch and ſuch <hi>Subſtances</hi> whoſe <hi>Natures</hi> are directly contrary, that ought to breed no difference. And for my part, I know no other uſe of <hi>Words,</hi> than
+<pb n="27" facs="tcp:64693:22"/>by the means of them to impart my Mind to others; and if that Intenti<g ref="char:EOLhyphen"/>on be once anſwered, I care for no more, but ſhall leave the <hi>Philologiſts</hi> to ſquabble as long as they pleaſe. But as for the producing either <hi>Alkalies</hi> or <hi>Acids</hi> by the means of <hi>Fire</hi> out of thoſe <hi>Bodies</hi> in which they did not exiſt before, or the changing of an <hi>Acid</hi> into an <hi>Alkaly,</hi> or producing ei<g ref="char:EOLhyphen"/>ther out of the other that was ſimply one of them before; if any one will ſhew me ſuch an <hi>Experiment,</hi> or de<g ref="char:EOLhyphen"/>monſtrate ſuch a thing without <hi>Fallacy,</hi> I ſhall own my ſelf his <hi>humble Ser<g ref="char:EOLhyphen"/>vant.</hi>
+               </p>
+               <p>As for the <hi>Inferences</hi> I draw from the <hi>Serum</hi> of the <hi>Blood</hi> turning a So<g ref="char:EOLhyphen"/>lution of Syrup of <hi>Violets</hi> from a blue <hi>Colour</hi> to that of Greenneſs, being what all manifeſt <hi>Alkalies</hi> will do, all manifeſt <hi>Acids</hi> changing the ſame blue Colour into Redneſs; I ſee no reaſon at all that I have to recede
+<pb n="28" facs="tcp:64693:23"/>from what I have ſaid concerning that matter: For if it be true that all manifeſt <hi>Acids</hi> do change a Soluti<g ref="char:EOLhyphen"/>on of Syrup of <hi>Violets</hi> from a blue Colour to that of Redneſs, and all manifeſt <hi>Alkalies</hi> do change the ſaid blue Colour into a green one; if the <hi>Serum</hi> of the <hi>Blood</hi> doth ſo change the Colour, a Man may, to the beſt of my Apprehenſion, without Pre<g ref="char:EOLhyphen"/>ſumption conclude, that that <hi>Serum</hi> which doth change a Solution of Sy<g ref="char:EOLhyphen"/>rup of <hi>Violets</hi> from blue to green, doth abound with <hi>Alkalious</hi> Particles: And I am ſure if it did abound with <hi>Acids,</hi> it would not fail of changing the blue Colour of the ſaid Solution into a red one: Which is a thing any Man may eaſily try; let but a ſuffici<g ref="char:EOLhyphen"/>ent quantity of any <hi>Acid Spirit</hi> be mixed with the <hi>Serum</hi> of a ſick Man's <hi>Blood</hi> that will before in a ſmall quan<g ref="char:EOLhyphen"/>tity turn a very large quantity of Solution of Syrup of <hi>Violets</hi> from
+<pb n="29" facs="tcp:64693:23"/>blue to Greenneſs; if the <hi>Acid</hi> be ſo much as will overpower the <hi>Alkaly</hi> in the <hi>Serum,</hi> inſtead of turning a Solution of Syrup of <hi>Violets</hi> green, it will immediately upon the mixing of it become red.</p>
+               <p>But that you may ſee I am not the only Perſon who has made uſe of this <hi>Experiment</hi> to diſtinguiſh be<g ref="char:EOLhyphen"/>tween <hi>Alkalies</hi> and <hi>Acids,</hi> I ſhall pro<g ref="char:EOLhyphen"/>duce an Authority or two for my ſo doing. Dr. <hi>Fran. Andre</hi> of <hi>Caen,</hi> in his <hi>Diſcourſe</hi> concerning <hi>Acid</hi> and <hi>Alka<g ref="char:EOLhyphen"/>ly,</hi> pag. the <hi>65th, Engliſh Tranſlation,</hi> tells us, That the principal Cauſe of permanent Colours comes only from the different nature and different mix<g ref="char:EOLhyphen"/>ture of <hi>Acid</hi> Salts with <hi>Alkaly</hi> Salts, which we may obſerve by divers <hi>Ex<g ref="char:EOLhyphen"/>periments.</hi>
+               </p>
+            </div>
+            <div n="1" type="account_of_experiment">
+               <head>Experiment I.</head>
+               <p>All <hi>Acids</hi> deſtroy blue Colours, and all <hi>Alkalies</hi> make them reappear.</p>
+            </div>
+            <div n="2" type="account_of_experiment">
+               <pb n="30" facs="tcp:64693:24"/>
+               <head>Experiment II.</head>
+               <p>
+                  <hi>Syrup of</hi> Violets, <hi>which is a compo<g ref="char:EOLhyphen"/>ſition of</hi> Acid <hi>and</hi> Alkaly, <hi>becomes of the faireſt</hi> green <hi>in the World when it is mingled with ſome</hi> Alkaly, <hi>as with</hi> Oil <hi>of</hi> Tartar <hi>made</hi> per deliquium, <hi>and</hi> reddiſh <hi>when ſome</hi> Acid <hi>is mingled therewith.</hi>
+               </p>
+               <p>
+                  <hi>Swalve</hi> in his <hi>Tract</hi> of <hi>Alkali</hi> and <hi>A<g ref="char:EOLhyphen"/>cidum,</hi> pag. 141. hath it much to the ſame purpoſe: <hi>Syrupum Violarum prae oculis habeto, quia ſuſpectam habes Solutionem plumbeam per Acetum in Sac<g ref="char:EOLhyphen"/>charum redactam. Syrupus ille ab Aci<g ref="char:EOLhyphen"/>do quovis rufeſcit, ab Alkali vireſcit; hinc inſervit aptiſſime dignotioni utriuſque. Quodvis Acidum eum ſiſtit rubrum, ſicut quodvis Alkali viridem, fixa &amp; volatilia uniuſmodi ſunt, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="account">
+               <p>But my <hi>Hypotheſis</hi> doth not altoge<g ref="char:EOLhyphen"/>ther hang upon ſo ſlender a <hi>Thred</hi> as the change of Colour, tho that be
+<pb n="31" facs="tcp:64693:24"/>a better <hi>Foundation</hi> than a great ma<g ref="char:EOLhyphen"/>ny <hi>Hypotheſes</hi> are built upon. You may very well remember that I brought this <hi>Experiment</hi> upon the Stage, only to ſatisfy <hi>Gentlemen</hi> who have not the conveniency of making more elaborate ones: And all <hi>Man<g ref="char:EOLhyphen"/>kind</hi> having imbibed the Notion that if any thing ailed them, they imme<g ref="char:EOLhyphen"/>diately concluded that it proceeded from an <hi>Acidity</hi> of their <hi>Blood;</hi> I there<g ref="char:EOLhyphen"/>fore thought it my <hi>Duty</hi> to convince them of the contrary in the moſt fa<g ref="char:EOLhyphen"/>miliar manner I could; but I never expected that <hi>Phyſicians</hi> ſhould take up with it, I referring them to a more certain <hi>Method, viz.</hi> to <hi>analize</hi> the <hi>Blood</hi> of their ſick <hi>Patients,</hi> and to compare the Subſtances produced from it, with the Subſtances produ<g ref="char:EOLhyphen"/>ced from the <hi>Blood</hi> of People in a ſtate of <hi>Health:</hi> And if once they will but take that Method, I am morally certain that the number of
+<pb n="32" facs="tcp:64693:25"/>my <hi>Enemies</hi> will every day decreaſe. But let People continue to ſay what they will of me, I ſhall endeavour to ſatisfy my ſelf, and to act for my <hi>Patients</hi> with as clear a Conſcience as poſſibly I can: And if after all I am reproached by my <hi>Brethren,</hi> I muſt bear it as well as I can. It ne<g ref="char:EOLhyphen"/>ver will be in any <hi>Phyſician's</hi> power to make people Immortal; but at the ſame time I am abſolutely certain that peoples Lives are frequently pro<g ref="char:EOLhyphen"/>longed by the uſe of proper <hi>Re<g ref="char:EOLhyphen"/>medies;</hi> and I doubt not but that they are alſo ſhortned by the uſe of im<g ref="char:EOLhyphen"/>proper ones: And if we are miſtaken as to the <hi>Cauſe</hi> of <hi>Diſeaſes,</hi> I don't ſee how we can readily find out proper <hi>Medicines.</hi>
+               </p>
+               <q>
+                  <p>
+                     <label>Letter.</label> For firſt if this <hi>Alkaliſated Serum</hi> is the Original of <hi>Diſtempers,</hi> then it muſt follow that whereſo<g ref="char:EOLhyphen"/>ever we find this <hi>Serum,</hi> there
+<pb n="33" facs="tcp:64693:25"/>muſt be likewiſe a <hi>Diſtemper:</hi> now I appeal to your ſelf if the <hi>Blood</hi> of a healthy Perſon will not give Syrup of <hi>Violets</hi> a green <hi>Tincture,</hi> does not then the <hi>Argument</hi> labour? may we not then impute this <hi>Phae<g ref="char:EOLhyphen"/>nomenon</hi> to ariſe rather from a due mixture of the <hi>Principles</hi> than from any vitiated Habit of <hi>Blood?</hi>
+                  </p>
+               </q>
+               <p>
+                  <label>Anſwer.</label> I confeſs this is cloſe argu<g ref="char:EOLhyphen"/>ing, and much to the purpoſe: But you may remember that I no where ſay that the <hi>Serum</hi> of well Perſons <hi>Blood</hi> will not turn a Solution of Sy<g ref="char:EOLhyphen"/>rup of <hi>Violets</hi> from a blue Colour to that of Greenneſs. But on the other hand, I have aſſerted that the <hi>Blood</hi> of thoſe labouring under any <hi>Diſ<g ref="char:EOLhyphen"/>temper</hi> I have met with will do it, in order to prove that the ſaid <hi>Diſtempers</hi> did not proceed from <hi>Acids;</hi> becauſe if it had abounded with <hi>Acids,</hi> in<g ref="char:EOLhyphen"/>ſtead of turning it from blue to
+<pb n="34" facs="tcp:64693:26"/>green, it would, as is before obſer<g ref="char:EOLhyphen"/>ved, have turned it from blue to red. Well, but ſtill the <hi>Serum</hi> of the <hi>Blood</hi> of a well <hi>Perſon</hi> will cauſe the ſame change in the Solution of Syrup of <hi>Violets</hi> as that of a ſick one; and therefore to rid my ſelf of that <hi>Diffi<g ref="char:EOLhyphen"/>culty</hi> is the great thing I have now to do.</p>
+               <p>
+                  <hi>Firſt,</hi> I all along throughout my <hi>Tract</hi> of the <hi>Gout,</hi> the <hi>Piece</hi> you re<g ref="char:EOLhyphen"/>fer to, and elſewhere, do endeavour to prove that the <hi>Blood</hi> of <hi>Perſons</hi> in a morbid ſtate doth more abound with <hi>Alkalious Particles</hi> than that of well <hi>Perſons,</hi> but no where ſay that the <hi>Blood</hi> of well <hi>Perſons</hi> hath no <hi>Al<g ref="char:EOLhyphen"/>kaly</hi> in it: And that the <hi>Blood</hi> of ſick <hi>People</hi> in all or moſt <hi>Diſtempers</hi> doth abound with ſuch <hi>Particles</hi> more than that of thoſe that are in a ſtate of <hi>Health,</hi> is to be demonſtrated ſeveral Ways: <hi>Firſt,</hi> If you take an equal <hi>Proportion</hi> of the <hi>Serum</hi> of the <hi>Blood</hi>
+                  <pb n="35" facs="tcp:64693:26"/>of a healthy <hi>Perſon,</hi> and of that of a <hi>Perſon</hi> in a <hi>Fever, Pleuriſy,</hi> &amp;c. and pour them into the ſame <hi>Quantities</hi> of Solution of Syrup of <hi>Violets</hi> of equal <hi>Strength,</hi> you will find that where<g ref="char:EOLhyphen"/>in the <hi>Serum</hi> of the ſick <hi>Perſon's Blood</hi> was poured, to be much greener than the other. <hi>Secondly,</hi> If you take <hi>two Ounces</hi> of the <hi>Blood</hi> of a heal<g ref="char:EOLhyphen"/>thy <hi>Perſon</hi> as it comes out of the <hi>Veins, Serum,</hi> and all together, and <hi>two Ounces</hi> of the <hi>Blood</hi> of a <hi>Perſon</hi> in a <hi>Fever, Pleuriſy,</hi> a <hi>Fit</hi> of the <hi>Gout,</hi> &amp;c. and commit them to <hi>Diſtillation</hi> in the ſame degree of <hi>Heat,</hi> you will find that the <hi>Blood</hi> of the ſick <hi>Perſon</hi> will produce a much greater quantity of <hi>Alkaly</hi> than that of the <hi>Perſon</hi> in a ſtate of <hi>Health.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> What ſhall I do with this <hi>Alkaly</hi> that is to be found in the <hi>Blood</hi> of healthy <hi>Perſons?</hi> Becauſe e<g ref="char:EOLhyphen"/>very Body has ſome <hi>Alkaly</hi> in their <hi>Blood,</hi> muſt every Body therefore
+<pb n="36" facs="tcp:64693:27"/>labour under ſome <hi>Diſtemper?</hi> Why truly I can't ſay that I ever yet met with that <hi>Perſon,</hi> who upon ſtrict <hi>En<g ref="char:EOLhyphen"/>quiry</hi> had not ſome <hi>Complaint</hi> or other to make. <hi>Mankind</hi> ſince the <hi>Fall</hi> is ſubject to <hi>Death</hi> every <hi>moment;</hi> there being ſince that time a <hi>Principle</hi> of <hi>Death,</hi> in oppoſition to that of <hi>Life,</hi> implanted in our <hi>Natures;</hi> and not only in our <hi>Natures,</hi> but in the <hi>Natures</hi> of every thing elſe for our ſakes: <hi>And God ſaid to</hi> Adam (upon his <hi>Fall</hi>) <hi>Curſed be the Ground for thy ſake,</hi> &amp;c. I confeſs there are many in our <hi>Age,</hi> who will laugh at and ridicule me for having recourſe to Sacred <hi>Writ,</hi> e<g ref="char:EOLhyphen"/>ſpecially to the <hi>Writings</hi> of <hi>Moſes,</hi> which they look upon as a kind of <hi>Romance;</hi> but let them laugh on. If there were not a <hi>Principle</hi> of <hi>Death</hi> within us, how is it poſſible for a <hi>Man</hi> one <hi>Hour</hi> to be in a good ſtate of <hi>Health,</hi> and the very next to be ex<g ref="char:EOLhyphen"/>piring? How this may be I ſhall en<g ref="char:EOLhyphen"/>deavour
+<pb n="37" facs="tcp:64693:27"/>to demonſtrate as clearly as poſſibly I can.</p>
+               <p>All the <hi>Alkaly</hi> that there is to be found in the <hi>Blood</hi> is moſt certainly an <hi>Excrement,</hi> and in a way of being carried off by ſome of the <hi>Emunctories;</hi> and if any of the <hi>Emunctories</hi> chance to be ſtopt, that this <hi>excrementitious Alkaly</hi> hath not room to paſs out by them, why then there is a <hi>Diſtemper</hi> of ſome kind or other cauſed, the <hi>Blood</hi> being overcharged with this <hi>ex<g ref="char:EOLhyphen"/>crementitious Matter.</hi> How many <hi>Diſtempers</hi> are occaſioned by what we call taking of <hi>Cold,</hi> which is nothing elſe but a <hi>Conſtipation</hi> of the <hi>Pores?</hi> What is the <hi>Occaſion</hi> of the <hi>Jaundice,</hi> but an <hi>Obſtruction</hi> of thoſe <hi>Veſſels</hi> in the <hi>Liver,</hi> which ſeparate the <hi>bilious Particles</hi> from the <hi>Blood?</hi> and what <hi>dreadful Diſtempers</hi> does the <hi>Jaundice</hi> fre<g ref="char:EOLhyphen"/>quently cauſe? How are <hi>Mortals</hi> tor<g ref="char:EOLhyphen"/>mented by the <hi>Stone</hi> in the <hi>Kidneys</hi> and <hi>Bladder?</hi> and what is the origi<g ref="char:EOLhyphen"/>nal
+<pb n="38" facs="tcp:64693:28"/>
+                  <hi>Cauſe</hi> of them, but an <hi>Obſtruction</hi> in the <hi>Kidneys,</hi> whereby the <hi>excremen<g ref="char:EOLhyphen"/>titious Alkaly,</hi> which ſhould be carried off that way, by its over long ſtay in thoſe Parts is converted into that <hi>Subſtance</hi> we call a <hi>Stone?</hi> And who<g ref="char:EOLhyphen"/>ever will give themſelves the trouble of diſtilling <hi>Stones</hi> either from the <hi>Kidneys</hi> or <hi>Bladder,</hi> will find that they are compoſed of <hi>Alkalious Particles.</hi> I could expatiate, and I doubt not give an Account of the <hi>Cauſe</hi> of all or moſt of the <hi>Diſtempers</hi> attending <hi>Human Bodies,</hi> from the <hi>excrementitious Alkaly</hi> being hindred from being car<g ref="char:EOLhyphen"/>ried off by the proper <hi>Emunctories.</hi> And I appeal to all <hi>Candid Ingenious Perſons,</hi> even thoſe who are my greateſt <hi>Enemies,</hi> whether all the <hi>Ex<g ref="char:EOLhyphen"/>crements</hi> of our <hi>Bodies</hi> are not <hi>Alkalies.</hi> When I ſpeak of <hi>Excrements,</hi> I don't mean that which is carried off by <hi>Stool,</hi> I having told you in another Place, that my <hi>ſqueamiſh Stomach</hi> would ne<g ref="char:EOLhyphen"/>ver
+<pb n="39" facs="tcp:64693:28"/>yet give me leave to make <hi>Experi<g ref="char:EOLhyphen"/>ments</hi> upon that, to know what Parts it contained, but every Body knows that the <hi>Bile</hi> is the greateſt part, if not all of it, carried off that way; and that the <hi>Bile</hi> is an <hi>Alkaly</hi> I ſuppoſe no Body doubts.</p>
+               <p>I know there are a great many who will reply, That we will allow you that the <hi>Matter,</hi> or at leaſt the <hi>Saline Subſtance</hi> that is diſcharged by the <hi>Glands</hi> of the <hi>Skin,</hi> by <hi>Urine,</hi> the <hi>Bile, Tears,</hi> &amp;c. are <hi>Alkalious;</hi> but there is another <hi>Excrement,</hi> the which you take no notice of, which is a very conſiderable one, and that is the <hi>Matter</hi> diſcharged from the <hi>Glands</hi> of the <hi>Mouth,</hi> called <hi>Spittle,</hi> which in all reſpects ſeems to be an <hi>Acid.</hi> To which I anſwer,</p>
+               <p>That the <hi>Saliva</hi> or <hi>Spittle</hi> is ſo far from being an <hi>Excrement,</hi> that it is one of the moſt noble <hi>Juices</hi> that our <hi>Body</hi> affords; it being the only
+<pb n="40" facs="tcp:64693:29"/>
+                  <hi>Menſtruum</hi> that <hi>Nature</hi> hath furniſhed us with for the diſſolving of the ſolid <hi>Food</hi> we eat, and turning it into a <hi>nutritious Juice:</hi> For by chewing of our <hi>Meat</hi> we compreſs the <hi>Salival Glands,</hi> and cauſe them to throw out a ſufficient quantity of the <hi>Juice</hi> con<g ref="char:EOLhyphen"/>tained in them; which being mixed with the <hi>Food,</hi> is along with it carri<g ref="char:EOLhyphen"/>ed into the <hi>Stomach,</hi> where the <hi>Office</hi> of <hi>Digeſtion</hi> is performed. But thoſe People, who ſwallow their <hi>Meat</hi> with<g ref="char:EOLhyphen"/>out chewing, ſeldom or never digeſt it, and are always lean. Now when I ſpeak of <hi>Saliva</hi> or <hi>Spittle,</hi> I don't mean that <hi>inviſcated, coagulated</hi> Sub<g ref="char:EOLhyphen"/>ſtance that People hauk up in a <hi>Morn<g ref="char:EOLhyphen"/>ing,</hi> or diſcharge when they have a <hi>Cold</hi> as they call it, that being a dege<g ref="char:EOLhyphen"/>nerate <hi>Saliva;</hi> but I mean that <hi>thin, Limpid</hi> Subſtance that ſome great <hi>To<g ref="char:EOLhyphen"/>bacco-Takers</hi> laviſhly let run from them: which is the only reaſon that the ſmoaking of <hi>Tobacco</hi> takes away
+<pb n="41" facs="tcp:64693:29"/>moſt Mens <hi>Appetites;</hi> for would they ſmoak <hi>Tobacco</hi> as a great and worthy <hi>Prelate</hi> and my ſelf do, and as all the <hi>Turkiſh Nation</hi> do, which is to ſwal<g ref="char:EOLhyphen"/>low their <hi>Spittle,</hi> they would rarely want an <hi>Appetite.</hi>
+               </p>
+               <p>But that I may return to my pro<g ref="char:EOLhyphen"/>per Buſineſs, which is to prove that all the <hi>Alkaly</hi> we have in our <hi>Blood</hi> is an <hi>Excrement,</hi> and in a way of being carried off as ſuch, or for want of being carried off, would cauſe a <hi>Diſ<g ref="char:EOLhyphen"/>temper</hi> of ſome kind or other. And here give me leave to acquaint you, that according to the beſt of my Ap<g ref="char:EOLhyphen"/>prehenſion, the <hi>Matter</hi> of all our <hi>Diſ<g ref="char:EOLhyphen"/>tempers</hi> is the ſame; but according to the difference of the <hi>Part</hi> immediately affected, the <hi>Diſtemper</hi> differs: And indeed when I conſider the wonder<g ref="char:EOLhyphen"/>ful <hi>Structure</hi> of our <hi>Bodies,</hi> of what <hi>Multitudes</hi> of <hi>minute Parts</hi> it is compo<g ref="char:EOLhyphen"/>ſed, inſtead of being ſurprized at our being ſick and out of order ſo
+<pb n="42" facs="tcp:64693:30"/>often as we are, I am almoſt amazed to think we are ever well. All <hi>Al<g ref="char:EOLhyphen"/>kalies</hi> that I know of will preſently cauſe <hi>Rottenneſs</hi> and <hi>Putrefaction</hi> in <hi>Animal Subſtances,</hi> as may be ſeen in making of <hi>Glovers Leather,</hi> an In<g ref="char:EOLhyphen"/>ſtance of which I have given in my <hi>Tract</hi> of the <hi>Gout,</hi> from a very good hand. Nay it is a thing very eaſily to be experimented by any one, for let but a <hi>Piece</hi> of <hi>Fleſh</hi> of any kind be put into a <hi>Liquor</hi> well impregna<g ref="char:EOLhyphen"/>ted with <hi>Alkaly,</hi> and in a ſmall time (tho in the <hi>Winter,</hi> when things are not ſubject to putrefy) it will turn to a meer <hi>Putrilago,</hi> a <hi>Maſs</hi> of <hi>Rotten<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Corruption.</hi> Whereas let a <hi>Piece</hi> of the ſame <hi>Fleſh</hi> be put into <hi>Liquor</hi> impregnated equally ſtrong with any <hi>Acid,</hi> and it will preſerve it from <hi>Putrefaction. Alkalies,</hi> whether <hi>Volatile</hi> or <hi>fixt,</hi> being applied to the <hi>Skin,</hi> will either cauſe a <hi>Mortification,</hi> or deſtroy the <hi>Tone</hi> of the <hi>Part;</hi>
+                  <pb n="43" facs="tcp:64693:30"/>whereas <hi>Acids</hi> of equal <hi>Strength</hi> will prevent <hi>Mortifications,</hi> where they are actually beginning, and frequently reſtore the <hi>Parts</hi> to their <hi>Tone,</hi> where it is loſt.</p>
+               <p>But it may very reaſonably be askt, where is the <hi>Acid</hi> in the <hi>Blood</hi> that does us all that <hi>Service</hi> you ſpeak of, or what becomes of all the <hi>Acid</hi> we take in, you owning <hi>Bread</hi> to be an <hi>Acid,</hi> and ſeveral other things that are e<g ref="char:EOLhyphen"/>very day uſed by all <hi>Mankind,</hi> when in your <hi>Analyſis</hi> of the <hi>Blood</hi> you men<g ref="char:EOLhyphen"/>tion no ſuch thing, and ſeem to in<g ref="char:EOLhyphen"/>timate, that altho People take them in never ſo great quantities, yet they never abound ſo as to cauſe a <hi>Diſtem<g ref="char:EOLhyphen"/>per?</hi> This is what may reaſonably be offered, and is very neceſſary that I ſhould clear as well as I can.</p>
+               <p>The <hi>Life</hi> of <hi>Man</hi> I take to be a <hi>Fire</hi> or <hi>Flame,</hi> and all we eat and drink,
+<pb n="44" facs="tcp:64693:31"/>together with the <hi>Air</hi> we draw in, to be as <hi>Fuel</hi> for this <hi>Flame;</hi> and that which is not proper <hi>Fuel</hi> for it is caſt off as <hi>Excrement.</hi> Now I appeal to all <hi>Mankind</hi> converſant in <hi>Chymiſtry,</hi> whe<g ref="char:EOLhyphen"/>ther the <hi>Excrements</hi> of <hi>Fire,</hi> or of the <hi>Fuel</hi> of which it is made, <hi>viz. Aſhes</hi> and <hi>Soot,</hi> be not <hi>Alkalies;</hi> and that our <hi>Lives</hi> are nothing elſe but a <hi>Flame</hi> or <hi>Fire</hi> of the ſame <hi>Nature</hi> with that commonly uſed, or very <hi>analogous</hi> to it, I think is plain.</p>
+               <p>It is the <hi>Nature</hi> of all common <hi>Fire</hi> to conſume whatever is a proper <hi>Pa<g ref="char:EOLhyphen"/>bulum</hi> or <hi>Fuel</hi> for it, and to leave its <hi>Excrements</hi> behind it, which, as is before obſerved, are <hi>Aſhes</hi> and <hi>Soot;</hi> in the <hi>Aſhes</hi> is contained a <hi>fixt Alkaly,</hi> and in the <hi>Soot</hi> a <hi>Volatile</hi> one. It is very plain that the <hi>Body</hi> of <hi>Man</hi> would ſoon be conſumed, unleſs ſup<g ref="char:EOLhyphen"/>plied with proper <hi>Food;</hi> and how could this be, unleſs there were ſome<g ref="char:EOLhyphen"/>thing to conſume it?</p>
+               <pb n="45" facs="tcp:64693:31"/>
+               <p>Common <hi>Fire</hi> cannot ſubſiſt where there is not a due <hi>Acceſs</hi> of <hi>Air</hi> to it: Is it not the very ſame thing with the <hi>Life</hi> of <hi>Man?</hi> let him be but incloſed in a Place where the <hi>Air</hi> is not capable of coming at him, and immediately he expires. It is well known that it is the common <hi>Practice</hi> of <hi>Miners,</hi> and thoſe who have occaſion to go into <hi>ſubterraneous Vaults</hi> or <hi>Paſſages,</hi> to carry <hi>Candles, Torches,</hi> or ſome ſuch things along with them, not more for the conve<g ref="char:EOLhyphen"/>niency of the <hi>Light</hi> they afford them in ſuch dark <hi>Places,</hi> than for the Se<g ref="char:EOLhyphen"/>curity they are to them againſt the moſt imminent <hi>Danger, viz.</hi> the <hi>Loſs</hi> of their <hi>Lives:</hi> for as ſoon as they once perceive their <hi>Lights</hi> begin to grow dim, common <hi>Prudence</hi> and <hi>Experience</hi> teaches them to retreat; and whoever has chanced to be ſo <hi>fool-hardy</hi> as to advance after the <hi>Light</hi> hath been extinguiſhed, has
+<pb n="46" facs="tcp:64693:32"/>ſcarce ever returned either to repent, or give an account of his <hi>Folly.</hi> A fatal <hi>Accident</hi> of this kind happened to <hi>two Men</hi> in a great <hi>Vault</hi> in a <hi>Yard</hi> belonging to my <hi>Father's Houſe,</hi> into which <hi>Vault,</hi> if we put a large <hi>Pan</hi> of <hi>Charcoal</hi> well lighted, they would be extinguiſhed in a <hi>moment;</hi> and the <hi>two Men</hi> before mentioned, as near as we could gueſs, loſt their <hi>Lives</hi> in as ſmall a time.</p>
+               <p>
+                  <hi>Heat</hi> and <hi>Warmth</hi> are the conſtant <hi>Concomitants</hi> of <hi>Fire:</hi> And that there is both <hi>Heat</hi> and <hi>Warmth</hi> in the <hi>Body</hi> of <hi>Man,</hi> none that is <hi>Maſter</hi> of his <hi>Senſes</hi> will deny: But why ſhould I make a <hi>Diſtinction</hi> between <hi>Heat</hi> and <hi>Warmth,</hi> when they only differ in degree? But not to ſtand any longer about that matter: How is it poſſible for the <hi>Heat</hi> of our <hi>Bodies</hi> to be ſuſtained, unleſs there were a <hi>Fire</hi> within us to do it? We are generally as hot, if not hotter in <hi>Bed,</hi> altho we uſe no
+<pb n="47" facs="tcp:64693:32"/>
+                  <hi>Exerciſe</hi> to excite the <hi>Motion</hi> of our <hi>Blood</hi> and <hi>Juices,</hi> than when we are up and in motion. Nay, mere <hi>Motion,</hi> let the great <hi>Des Cartes</hi> and his <hi>Follow<g ref="char:EOLhyphen"/>ers</hi> ſay what they will, will never cauſe any <hi>Heat</hi> in fluid <hi>Bodies,</hi> altho excited never ſo much: I confeſs in ſolid ones, upon violent <hi>Friction</hi> or the like, there will a <hi>Heat</hi> ariſe; but what relation hath that to us, when we are aſleep?</p>
+               <p>There is a received <hi>Maxim,</hi> that there is no <hi>Smoak</hi> but there is ſome <hi>Fire:</hi> Every Body muſt be ſenſi<g ref="char:EOLhyphen"/>ble what vaſt quantities of <hi>Steams</hi> there are continually diſcharged from all <hi>Parts</hi> of our Bodies; and how that comes to be, unleſs occaſioned from ſome <hi>Fire</hi> within us, I cannot under<g ref="char:EOLhyphen"/>ſtand.</p>
+               <p>I confeſs I have the <hi>Concurrence</hi> of ſome of the greateſt <hi>Men</hi> perhaps the <hi>World</hi> hath afforded, that the <hi>Life</hi> of <hi>Man</hi> is a <hi>Flame;</hi> but at preſent I have
+<pb n="48" facs="tcp:64693:33"/>not leiſure to peruſe their <hi>Writings</hi> to ſee what they have ſaid upon this <hi>Subject.</hi>
+               </p>
+               <p>If any <hi>Man</hi> ſhall ask me, how this <hi>Flame</hi> came to be firſt kindled? I ſhall make no other reply, but deſire him to inform me how the <hi>Ovum</hi> came to be impregnated with the <hi>Maſculine Seed,</hi> ſo as to make it capable of pro<g ref="char:EOLhyphen"/>ducing a <hi>Human Body?</hi> and when he hath done that, I will quickly tell him how this <hi>Flame</hi> came to be firſt kindled.</p>
+               <p>The next thing I have to do, is to confider what is the proper <hi>Pabulum</hi> or <hi>Fuel</hi> for <hi>Fire,</hi> and this every body knows muſt be ſomething that is <hi>ſul<g ref="char:EOLhyphen"/>phureous:</hi> Now there is ſcarce a <hi>Sul<g ref="char:EOLhyphen"/>phur</hi> we know of that is not com<g ref="char:EOLhyphen"/>bined with an <hi>Acid; Sulphurs</hi> ſeeming to be the genuine <hi>Vehicles</hi> for <hi>Acids,</hi> with which they are generally united, few <hi>Sulphurs</hi> being devoid of <hi>Acids,</hi> and few <hi>Acids</hi> devoid of <hi>Sulphurs;</hi>
+                  <pb n="49" facs="tcp:64693:33"/>and as the one or the other predomi<g ref="char:EOLhyphen"/>nates, ſo they are denominated either <hi>Acido-Sulphurea</hi> or <hi>Sulphureo-Acida.</hi> As <hi>Sulphurs</hi> are the <hi>Vehicles</hi> of <hi>Acids,</hi> ſo <hi>Acids</hi> ſeem to be a ſort of <hi>Vinculum</hi> to <hi>Sulphurs,</hi> by the means of which they are hindred from <hi>Diſſipation.</hi> Whenever a <hi>Sulphur</hi> is devoid of <hi>Acid,</hi> it is of ſo <hi>Volatile</hi> a <hi>Nature,</hi> that it is ſcarcely to be preſerved from <hi>Diſ<g ref="char:EOLhyphen"/>ſipation:</hi> Not that I ſuppoſe any <hi>Sul<g ref="char:EOLhyphen"/>phurs</hi> to be perfectly deſtitute of an <hi>Acid;</hi> but the leſs <hi>Acid</hi> they have mixt with them, the more <hi>Volatile</hi> they are; ſuch are <hi>Rectified Spirit</hi> of <hi>Wine, Camphire, &amp;c.</hi> And Mr. <hi>Godfry</hi> aſſures me that he can make <hi>Spirit</hi> of <hi>Wine</hi> ſo <hi>Volatile,</hi> that a <hi>Drop</hi> of it won't fall to the <hi>Ground,</hi> but diſap<g ref="char:EOLhyphen"/>pear almoſt as ſoon as it is diſingaged from the <hi>Mouth</hi> of the <hi>Bottle</hi> in which it is contained. Now the purer the <hi>Pabulum</hi> is, the leſs <hi>Excrement</hi> is pro<g ref="char:EOLhyphen"/>duced; <hi>Spirit</hi> of <hi>Wine</hi> and <hi>Camphire</hi>
+                  <pb n="50" facs="tcp:64693:34"/>produce little or no <hi>Excrement</hi> at all; whereas <hi>Oil Olive, Bees-Wax, Tallow,</hi> &amp;c. afford a great deal of <hi>Soot,</hi> in which is contained the <hi>Volatile Alkaly.</hi> Moſt <hi>Vegetables</hi> commonly in uſe for burning, afford a great quantity both of <hi>Aſhes</hi> and <hi>Soot,</hi> ſome more of one, and leſs of the other; as <hi>Oak</hi> a great quantity of <hi>Aſhes</hi> in which is con<g ref="char:EOLhyphen"/>tained the <hi>fixt Alkaly,</hi> and but a little <hi>Soot,</hi> in which the <hi>Volatile Salt</hi> is con<g ref="char:EOLhyphen"/>tained. <hi>Beech</hi> on the other hand pro<g ref="char:EOLhyphen"/>duces but a ſmall quantity of <hi>Aſhes,</hi> but a large quantity of <hi>Soot:</hi> this is what I have been informed of by thoſe who burn quantities of <hi>Wood.</hi> The <hi>Subſtances</hi> we live upon, and are nou<g ref="char:EOLhyphen"/>riſhed with, are not to be reckoned amongſt the number of thoſe which afford no <hi>Excrement</hi> upon burning: and by the way I can't underſtand what ſhould become of all we eat and drink, unleſs, as is before obſer<g ref="char:EOLhyphen"/>ved, there were a <hi>Fire</hi> or <hi>Flame</hi> with<g ref="char:EOLhyphen"/>in
+<pb n="51" facs="tcp:64693:34"/>us to conſume it; and the <hi>Conſump<g ref="char:EOLhyphen"/>tion</hi> is ſo great, that we are not able to live without a conſtant and fre<g ref="char:EOLhyphen"/>quent Supply. And which to me is none of the leaſt Arguments to prove that our <hi>Life</hi> is a <hi>Flame,</hi> is what is manifeſt by every day's <hi>Experience, viz.</hi> Let a very fat Man be ſeized with a <hi>Fever,</hi> or any ſuch <hi>Diſtemper,</hi> at<g ref="char:EOLhyphen"/>tended with a total loſs of <hi>Appetite;</hi> and the <hi>Fat,</hi> which is the proper <hi>Fuel</hi> for <hi>Fire,</hi> will firſt be conſumed: and in ſuch <hi>Diſtempers</hi> it is frequently ſeen that very corpulent Perſons will in a ſmall time be waſted to a <hi>Skeleton;</hi> when at the ſame time the ſenſible <hi>Evacuations</hi> of <hi>Urine</hi> and <hi>Stool</hi> are leſs than in a time of <hi>Health;</hi> which thing could not be, unleſs there were a <hi>Flame</hi> to cauſe that <hi>Conſumption:</hi> And wherever there is a <hi>Fire</hi> or <hi>Flame,</hi> eſpecially when ſupplied with groſs <hi>Matter,</hi> there muſt be a throwing off of <hi>Excrements;</hi> which is the reaſon
+<pb n="52" facs="tcp:64693:35"/>that the <hi>Blood</hi> in <hi>Fevers,</hi> and other <hi>Diſ<g ref="char:EOLhyphen"/>tempers</hi> of that <hi>nature,</hi> abounds more with <hi>Volatile Alkaly</hi> than that of well People, becauſe the <hi>Flame</hi> is more excited at that time, and the <hi>ſecretory Veſſels</hi> deſigned for that purpoſe being ſome way or other obſtructed, can<g ref="char:EOLhyphen"/>not carry off the <hi>Excrements</hi> ſo faſt as they are produced.</p>
+               <p>Let us conſider what all the <hi>Alkali<g ref="char:EOLhyphen"/>ous Salts,</hi> whether <hi>Volatile</hi> or <hi>fixt,</hi> are. I ſuppoſe no one can produce me a <hi>fixt Alkaly,</hi> which is the bare <hi>Product</hi> of <hi>Nature:</hi> The very Name it ſelf being derived from the <hi>Salt</hi> of the <hi>Aſhes</hi> of the <hi>Herb Kaly,</hi> as I have ob<g ref="char:EOLhyphen"/>ſerved in the <hi>Appendix</hi> to my <hi>Eſſay</hi> of <hi>Alkaly</hi> and <hi>Acid,</hi> in concurrence with ſeveral <hi>Authors,</hi> who have written up<g ref="char:EOLhyphen"/>on the ſame <hi>Subject;</hi> tho none that I know of have ever written upon it with the ſame deſign that I have done. But that you may ſee I am not ſingular, I ſhall produce two or
+<pb n="53" facs="tcp:64693:35"/>three <hi>Authorities. Swalve</hi> in his <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> of <hi>Alkaly</hi> and <hi>Acid,</hi> pag. 48. does thus define it. <hi>Originem Nominis Alka<g ref="char:EOLhyphen"/>li ab incineratâ Herbâ AEgyptiacâ Kali de<g ref="char:EOLhyphen"/>ſumptam haud ignoras: Salibus illud fixis &amp; lixivialibus abhinc applicatum; illud<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> primariò judicatum Alkali, quod Genſin ſuam è cinere &amp; lixivio traxerat. Ta<g ref="char:EOLhyphen"/>chenius</hi> in his <hi>Hippocrates Chymicus</hi> de<g ref="char:EOLhyphen"/>fines it much after the ſame manner. <hi>Fit ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Sal Kali ex Herbâ Kali, magna copia in Aegypto proveniente, quae ibidem vi<g ref="char:EOLhyphen"/>ridis exuritur, &amp; ad nos transfertur; à quibuſdam vocatur etiam Soda, Alumen cat<g ref="char:EOLhyphen"/>mum, &amp; vero nomine Sal Kali appellatur; non reperitur tamen Sal Kali in Natura, nec in omnibus tribus Regnis, niſi ab Artifice ignis ope producatur.</hi> For my own part, I could never yet ſee any ſuch thing as a <hi>fixt Alkaly</hi> to be obtained any other way than from the <hi>Aſhes</hi> of <hi>Plants,</hi> which are that part of them that is altogether unfit for <hi>Fuel</hi> for common <hi>Fire,</hi> they plainly appearing to me to
+<pb n="54" facs="tcp:64693:36"/>be an <hi>Excrement,</hi> and as ſuch will rot and deſtroy all <hi>Bodies,</hi> eſpecially <hi>Ani<g ref="char:EOLhyphen"/>mal</hi> ones, that they are mixt with. In <hi>Animal Bodies</hi> there is no ſuch thing to be found unleſs in the <hi>Bile,</hi> which is an <hi>Excrement,</hi> and ſeems to be as genu<g ref="char:EOLhyphen"/>ine an <hi>Excrement</hi> of <hi>Fire</hi> as any thing whatſoever, both from its burne <hi>Taſt, Colour,</hi> &amp;c. and I am ſure if it be detained in the Body, will play the <hi>Devil.</hi>
+               </p>
+               <p>As for <hi>Volatile Alkalies,</hi> they are to be found in <hi>Soot,</hi> in <hi>Plants</hi> after <hi>Pu<g ref="char:EOLhyphen"/>trefaction,</hi> in <hi>Urine,</hi> in <hi>Horns</hi> and <hi>Hoofs</hi> of <hi>Animals,</hi> and in <hi>Blood;</hi> and altho <hi>Sweat</hi> abound with a great quantity of it, yet that is not to be obtained in quantities ſufficient to draw <hi>Volatile Salt</hi> from it. <hi>Soot</hi> is the <hi>Volatile Excrement</hi> of <hi>Fire,</hi> or of the <hi>Matter</hi> of which <hi>Fire</hi> is made. <hi>Urine</hi> is an <hi>Excrement</hi> of our <hi>Bodies,</hi> and the <hi>Volatile Salt</hi> in it the <hi>Excrement</hi> of <hi>Animal Fire,</hi> or of that which is its
+<pb n="55" facs="tcp:64693:36"/>
+                  <hi>Pabulum</hi> or <hi>Fuel.</hi> The <hi>Horns</hi> and <hi>Hoofs</hi> of <hi>Beaſts</hi> are generally allowed to be excrementitious Parts of their <hi>Bodies,</hi> and they afford the greateſt quantity of <hi>Volatile Salt</hi> of any thing beſides. As for <hi>Blood,</hi> the <hi>Volatile Alkaly</hi> to be obtained from it, is on<g ref="char:EOLhyphen"/>ly the excrementitious part of it, or rather of the vital <hi>Flame,</hi> or the <hi>Pabulum</hi> of it, in a way of being carried off by ſome of the <hi>Emunctories,</hi> which, if it chance to be obſtructed in its <hi>Paſſage,</hi> affects the <hi>Body</hi> with ſome <hi>Diſtemper</hi> or other. As for the <hi>Vola<g ref="char:EOLhyphen"/>tile Salt</hi> to be obtained from <hi>Plants</hi> after <hi>Putrefaction,</hi> I ſhall give you a particular account of it, by reaſon that ſome <hi>Men</hi> have made a great <hi>ſtir</hi> about it, and ſpent a great deal of time in queſt after it, ſuppoſing it to be one of the grand <hi>Medicines</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture.</hi> Moſt, if not all <hi>Vegetables</hi> do principally conſiſt of a <hi>Volatile Acid</hi> and a <hi>Sulphur,</hi> which make them a
+<pb n="56" facs="tcp:64693:37"/>proper <hi>Fuel</hi> for <hi>Fire:</hi> Now let any of the <hi>Aromatick Plants,</hi> ſuch as <hi>Roſe<g ref="char:EOLhyphen"/>mary, Sage, Lavender, Mint,</hi> &amp;c. be well dried, and afterwards be put into a <hi>Hole</hi> in a moiſt <hi>Cellar,</hi> and rammed down very hard; let them lie without a <hi>Cover</hi> till they grow hot; after they have done ſo ſome time, and the <hi>Acido-ſulphureous</hi> parts are exha<g ref="char:EOLhyphen"/>led (which is much the ſame, as if they had been burnt) they will then contract a ſtinking ill <hi>Smell;</hi> when they are in this ſtate, put them into a tall glaſs <hi>Bottle,</hi> with a glaſs <hi>Head,</hi> and in gentle Heat of <hi>Sand</hi> you will ob<g ref="char:EOLhyphen"/>tain a <hi>Volatile Alkalious Spirit</hi> and <hi>Salt,</hi> good for nothing elſe that I know of, but to bring other <hi>Bodies</hi> into the ſame ſtate of <hi>Corruption</hi> that the <hi>Plants</hi> from which it was extracted were before it was drawn from them. Thus I have let you ſee what is my Judgment concerning <hi>Alkalies,</hi> and how they are produced.</p>
+               <pb n="57" facs="tcp:64693:37"/>
+               <p>But as for the <hi>Acid</hi> that we take in as <hi>Food</hi> and otherwiſe, that, together with the <hi>Sulphur,</hi> are made uſe of as a <hi>Pabulum</hi> or <hi>Fuel</hi> for the vital <hi>Flame;</hi> and were not the <hi>ſulphureous Particles</hi> in ſome meaſure ſuppreſſed and de<g ref="char:EOLhyphen"/>tained by the means of an <hi>Acid,</hi> the <hi>Thred</hi> of our <hi>Lives</hi> would be but ve<g ref="char:EOLhyphen"/>ry ſhort. Dr. <hi>Andre</hi> of <hi>Caen</hi> in <hi>Nor<g ref="char:EOLhyphen"/>mandy</hi> in his <hi>Diſcourſe</hi> of <hi>Alkaly</hi> and <hi>Acid;</hi> ſpeaking of <hi>Acid,</hi> pag. 21. <hi>Engl. Tranſlation,</hi> he ſaith, <hi>There is no<g ref="char:EOLhyphen"/>thing in this World which owes not its birth to an Acid Salt: Nothing can live nor be multiplied without it: It is that Soul of the World, of which the Antients have ſo often told us. Tachenius</hi> in his <hi>Clavis Hippocratis Medicinae,</hi> from pag. 3, to pag. 11. gives ſtrange <hi>Encomiums</hi> of it, ſome of which I ſhall here tran<g ref="char:EOLhyphen"/>ſcribe. Speaking of <hi>Acid,</hi> he brings in <hi>Lullius. Nos &amp; multi alii, inquit, vocamus illum Filium Solis: nam primò per Solis influentiam fuit generatus per
+<pb n="58" facs="tcp:64693:38"/>naturam ſine adjutorio ſcientiae vel artis; &amp; ideò Ariſtoteles vocavit Solem patrem &amp; Terram matrem omnium vegetabilium, &amp;c.</hi> He afterwards ſays, <hi>Acidum ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eſt &amp; pingue antiquiſſimum principium, &amp; omnium rerum vita &amp; fons, quod variis nominibus nominarunt Scriptores, ut ignem, ſolem, aurum, ſpiritum, ſul<g ref="char:EOLhyphen"/>phur, forma, &amp; ſexcentis aliis nomini<g ref="char:EOLhyphen"/>bus, quae omnia ſynonima ſunt, eſt<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ea<g ref="char:EOLhyphen"/>dem res, cui tamen diverſo reſpectu diverſa nomina imponuntur; nobis tamen eam hic &amp; ubique commodiore opportunitate Acidum vocare libet.</hi> Again, <hi>A Sole i<g ref="char:EOLhyphen"/>ta<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ut a fonte defluunt Acidum naturale &amp; lumen vitale, quae reipſa ſunt idem, ſed officio diſtinguuntur: Acidi enim mu<g ref="char:EOLhyphen"/>nus eſt ad interiora Naturae penetrare; lu<g ref="char:EOLhyphen"/>minis verò exteriora patefacere, utcum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſolis radii operentur; adeo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Sol eſt pri<g ref="char:EOLhyphen"/>mum naturale organum, cujus acceſſu &amp; receſſu omnes naturae operationes variae reguntur, intenduntur ac remittuntur. Hinc Coſmopolita ingenioſiſſimus; ſi non
+<pb n="59" facs="tcp:64693:38"/>eſſet vis vegetabilis ſulphuris (id eſt Aci<g ref="char:EOLhyphen"/>dum pingue &amp; filius ſolis) non coagula<g ref="char:EOLhyphen"/>retur aqua in herbas: ſi ita<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Acidum à ſole fluens infunditur in materiam ex gr. mineralem ſtatim recipit determinationem naturae, &amp; virtutis mineralis, &amp; ſic de cae<g ref="char:EOLhyphen"/>teris animalibus, &amp; de Vegetabilibus rebus dixit Luilius; &amp; proptereà quòd haec aci<g ref="char:EOLhyphen"/>ditas naturalis omnibus mundi Materiis co<g ref="char:EOLhyphen"/>pulatur, Mercurii nomen à ſapientibus adepta eſt: Et licet oculus vulgi quotidie videat Acidi naturalis multiplicationem, nec non in<g ref="char:EOLhyphen"/>corporationem, attamen illud non cognoſcit: exempli loco ſit minera ſalis petrae Patavii jam evacuata, quae quinque vel ſeptem anno<g ref="char:EOLhyphen"/>rum decurſu rurſus repletur, eſt enim terra ejus nutrix, Hermete teſte, unde hic ſpi<g ref="char:EOLhyphen"/>ritus in illa corpus aſſumit, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fit inflam<g ref="char:EOLhyphen"/>mabile nitrum.</hi>
+               </p>
+               <p>
+                  <hi>Acids</hi> are without doubt the moſt perfect <hi>Bodies</hi> in <hi>Nature,</hi> ſince they can<g ref="char:EOLhyphen"/>not undergo a <hi>Putrefaction;</hi> and what we take in by our <hi>Mouths</hi> is ſo far from being too much for us, that be<g ref="char:EOLhyphen"/>ſides
+<pb n="60" facs="tcp:64693:39"/>it we are not able to live with<g ref="char:EOLhyphen"/>out drawing in freſh Supplies from the <hi>Air</hi> every moment; and that the <hi>Air</hi> is filled with <hi>Acid</hi> Salts, a Multi<g ref="char:EOLhyphen"/>tude of common and obvious <hi>Expe<g ref="char:EOLhyphen"/>riments</hi> do evince: as for inſtance, Let <hi>Vitriol</hi> be diſtilled with the moſt violent <hi>Fire</hi> imaginable, ſo that it will not yield the leaſt drop of <hi>Acid</hi> Spirit more; do but take out the <hi>Caput mortuum</hi> or <hi>Colcathar,</hi> and expoſe it to the open <hi>Air</hi> under a <hi>Shed,</hi> where it may not be rained upon, and in a few months time it will become good <hi>Vitriol</hi> a<g ref="char:EOLhyphen"/>gain, and yield as much <hi>Acid Spirit</hi> as it did at firſt time, and this it will do <hi>ad infinitum:</hi> The ſame thing may be done by the <hi>Caput mortuum</hi> of <hi>Sea<g ref="char:EOLhyphen"/>ſalt, Nitre,</hi> &amp;c. Now if the <hi>Air</hi> did not abound with <hi>Acid Particles,</hi> from whence came thoſe inſipid Bodies that were totally deprived of the <hi>A<g ref="char:EOLhyphen"/>cid</hi> they had in them by the firſt <hi>Diſ<g ref="char:EOLhyphen"/>tillation,</hi>
+                  <pb n="61" facs="tcp:64693:39"/>to regain the ſame quantity of <hi>Acid</hi> that they had before they were diſtilled? If you expoſe the <hi>Caput mortuum</hi> of thoſe things that by <hi>Diſ<g ref="char:EOLhyphen"/>tillation</hi> had afforded an <hi>Alkalious</hi> Spirit or Salt, that <hi>Caput mortuum</hi> will never regain its <hi>Alkaly</hi> again, let it lie never ſo long; which argues plainly that the <hi>Particles</hi> of the <hi>Air</hi> are not <hi>Alkalious:</hi> And therefore were <hi>Acids</hi> ſo injurious to Mens Bodies as ſome would have us believe they are, every <hi>Draught</hi> of <hi>Air</hi> we take in muſt poi<g ref="char:EOLhyphen"/>ſon us, ſince the <hi>Air</hi> is full of <hi>Acid Particles;</hi> and I believe no body doubts but that the <hi>Air</hi> has a free <hi>Com<g ref="char:EOLhyphen"/>munication</hi> with the <hi>Blood,</hi> if not by the <hi>Lungs,</hi> at leaſt by the receptory <hi>Pores</hi> of <hi>Skin:</hi> But I think it's plain that there is a <hi>Communication</hi> with it both ways.</p>
+               <p>By all the ways I could yet con<g ref="char:EOLhyphen"/>trive, I have not been able to pro<g ref="char:EOLhyphen"/>cure <hi>one Grain</hi> of pure <hi>Acid</hi> from the <hi>Blood</hi> of either healthy or ſick <hi>People:</hi>
+                  <pb n="62" facs="tcp:64693:40"/>But in the before recited <hi>Experiments</hi> you find there is always a proportion of fetid <hi>Oil,</hi> with which <hi>Oil</hi> the <hi>Acid</hi> is imbodied to make it a proper <hi>Pa<g ref="char:EOLhyphen"/>bulum</hi> for the <hi>vital Flame;</hi> and when once <hi>Acid</hi> and <hi>Oleaginous</hi> Bodies are well united, which they will very readily do, it is no very eaſy matter to cauſe a Separation of them. Now the reaſon that this <hi>Oil</hi> hath ſuch a very ill Savour is from its coming o<g ref="char:EOLhyphen"/>ver the <hi>Helm</hi> along with the <hi>Volatile Alkaly;</hi> all <hi>Alkalies,</hi> whether <hi>Volatile</hi> or <hi>fixt,</hi> giving a very ill <hi>Smell</hi> to <hi>ſul<g ref="char:EOLhyphen"/>phureous oleaginous</hi> Bodies, eſpecially if together they are expoſed to a great degree of <hi>Heat;</hi> and the <hi>Heat</hi> that is required to bring them over the <hi>Helm</hi> is much greater than that of our Bodies, tho in a burning <hi>Fever:</hi> Yet from the <hi>Action</hi> of the <hi>Volatile excrementitious Alkaly</hi> upon the <hi>ſulphure<g ref="char:EOLhyphen"/>ous</hi> parts of the <hi>Blood,</hi> may I think a very good reaſon be given for the
+<pb n="63" facs="tcp:64693:40"/>
+                  <hi>Symptoms</hi> that attend moſt, if not all <hi>Fevers;</hi> for all <hi>Alkalies</hi> deſtroy <hi>Sulphurs,</hi> as may be ſeen in the making of <hi>Soap, Hepar Sulphuris,</hi> &amp;c. <hi>Sulphurs</hi> are the active Principle in both Ani<g ref="char:EOLhyphen"/>mal and Vegetable <hi>Juices; Alkalies</hi> by breaking and dividing the <hi>Particles</hi> of the <hi>Sulphurs</hi> excite Fermentations, and by degrees cauſe a total Diſſipa<g ref="char:EOLhyphen"/>tion of them. <hi>Acids</hi> are a ſort of <hi>Vin<g ref="char:EOLhyphen"/>culum</hi> to <hi>Sulphurs,</hi> and therefore they ſuppreſs <hi>Fermentations,</hi> and keep the <hi>Sulphur</hi> from Diſſipation: From whence I infer that a true <hi>Oleoſum</hi> muſt be the great <hi>Medicine;</hi> but it muſt not be ſuch a one as commonly goes under that Name, which is only a <hi>Combination</hi> of <hi>Volatile Alkaly</hi> with Spirit of <hi>Wine</hi> and <hi>Aromatick Oils</hi> or <hi>Spices,</hi> inſtead of which it muſt be an <hi>Acido-oleoſum,</hi> an <hi>exalted Acid,</hi> com<g ref="char:EOLhyphen"/>bined after the foreſaid manner: The <hi>Life</hi> of <hi>Man</hi> it ſelf being principally ſupported by an <hi>Acido-oleoſum.</hi>
+               </p>
+               <pb n="64" facs="tcp:64693:41"/>
+               <p>If any one asks me what I mean by <hi>Sulphur?</hi> My Anſwer is, whatſo<g ref="char:EOLhyphen"/>ever is inflammable. And with ſuch kind of <hi>Subſtances</hi> the World is almoſt every where filled: For with<g ref="char:EOLhyphen"/>out them neither the <hi>Lives</hi> of <hi>Men</hi> nor <hi>Beaſts</hi> could be any way ſupported; and therefore thoſe places that are beſt ſupplied with them, are beſt ſtockt with Animals of all kinds; whereas thoſe that are deficient in them, ſuch as the <hi>Deſarts</hi> of <hi>Arabia,</hi> &amp;c. are al<g ref="char:EOLhyphen"/>moſt wholly deſtitute of all kinds of living Creatures.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> But <hi>ſecondly,</hi> there is a<g ref="char:EOLhyphen"/>nother way of diſcovering an <hi>Al<g ref="char:EOLhyphen"/>kaly</hi> beſides that of its Appearance, and that is by its effects, to wit, its <hi>Fermentation</hi> with Spirit of <hi>Vitriol.</hi> Now I aver this green <hi>Serum</hi> will not ferment with the foreſaid Spi<g ref="char:EOLhyphen"/>rit: Wherefore if it be an <hi>Alkaly,</hi> it is an <hi>Alkaly</hi> of a particular <hi>nature.</hi>
+                     <pb n="65" facs="tcp:64693:41"/>It muſt be granted that we often<g ref="char:EOLhyphen"/>times find in the <hi>Blood</hi> ſome Par<g ref="char:EOLhyphen"/>ticles of a very warm nature predominant, in which caſes I have found <hi>Acids</hi> to be of great uſe: but whether they are of an <hi>Alkaline</hi> Nature or not, I leave to the <hi>Learned</hi> to determine. If they are <hi>Alkalies,</hi> then either fixt or Volatile; if fixt, how comes it to paſs, that on the Diſſolution of the <hi>Texture</hi> of the <hi>Blood</hi> they claim the higheſt place, and no<g ref="char:EOLhyphen"/>thing will ſerve their turn, but they muſt needs ſwim in the <hi>Serum?</hi> if Volatile, how is it that we many times find this warm <hi>Serum</hi> to be little better than inſipid? Vola<g ref="char:EOLhyphen"/>tile Salts you know are aculea<g ref="char:EOLhyphen"/>ted, and affect the Palat ſtrongly. May they not rather be of a ſul<g ref="char:EOLhyphen"/>phureous nature, ſince it is the Na<g ref="char:EOLhyphen"/>ture of ſuch Subſtances to ſit upper<g ref="char:EOLhyphen"/>moſt on the Diſſolution of Bodies?</p>
+               </q>
+               <pb n="66" facs="tcp:64693:42"/>
+               <p>
+                  <label>Anſwer.</label> I own it is one of the <hi>genu<g ref="char:EOLhyphen"/>ine</hi> and <hi>conſtant Effects</hi> of an <hi>Alkaly</hi> to cauſe an <hi>Efferveſcency,</hi> when mixt with Spirit of <hi>Vitriol</hi> or any other <hi>Acid</hi> Spirit; but whether this <hi>Effer<g ref="char:EOLhyphen"/>veſcency</hi> be to be accounted a <hi>Fermen<g ref="char:EOLhyphen"/>tation,</hi> I greatly queſtion: Tho <hi>Alka<g ref="char:EOLhyphen"/>lies</hi> will excite <hi>Fermentation</hi> in fer<g ref="char:EOLhyphen"/>mentible <hi>Liquors,</hi> as is well known to many <hi>Mechanicks,</hi> and I fear too well by the <hi>Brewers</hi> about this City. As for what you mean by the <hi>green Se<g ref="char:EOLhyphen"/>rum,</hi> which you ſay will not <hi>ferment</hi> or <hi>efferveſce</hi> with Spirit of <hi>Vitriol,</hi> I cannot tell: But ſure I am, that if you put a little Spirit or <hi>Oil</hi> of <hi>Vitriol</hi> into a ſmall Bottle, and upon that pour ſome <hi>Serum</hi> of <hi>Blood</hi> that will turn Syrup of <hi>Violets green,</hi> it will immediately become intenſly <hi>hot,</hi> and a great many Bubbles will im<g ref="char:EOLhyphen"/>mediately riſe, which looks very like a <hi>Fermentation,</hi> if it be not one:
+<pb n="67" facs="tcp:64693:42"/>therefore when you made this <hi>Experi<g ref="char:EOLhyphen"/>ment,</hi> upon which you are ſo confi<g ref="char:EOLhyphen"/>dent, there muſt needs be ſome Error committed; for upon your urging this thing, the firſt Opportunity I had I made the <hi>Experiment</hi> afreſh, and it ſucceeded the very firſt time; and I doubt not, but if you will give your ſelf the trouble of making this <hi>Experiment</hi> again, it will not fail of ſucceeding.</p>
+               <p>As for thoſe warm <hi>Particles</hi> that you ſay are often <hi>predominant</hi> in the <hi>Blood,</hi> I muſt confeſs I don't under<g ref="char:EOLhyphen"/>ſtand what you mean by them; the <hi>Blood,</hi> whilſt we are in a ſtate of <hi>Health,</hi> is always <hi>warm,</hi> the reaſon of which I have before given you. If we have a <hi>Fever</hi> upon us, the <hi>Blood</hi> exceeds its natural <hi>Temper,</hi> ac<g ref="char:EOLhyphen"/>cording as the <hi>Fever</hi> is more or leſs <hi>violent:</hi> Now the Cauſe of this Ex<g ref="char:EOLhyphen"/>ceſs of <hi>Heat</hi> in a <hi>febrile</hi> ſtate I take to be as follows; in moſt <hi>Fevers,</hi> e<g ref="char:EOLhyphen"/>ſpecially
+<pb n="68" facs="tcp:64693:43"/>in the beginning of them, there is a <hi>Conſtipation</hi> of ſome of the <hi>Emunctories;</hi> ſo that the <hi>excrementitious Alkaly,</hi> which ſhould be carried off by them, is detained in the <hi>Blood,</hi> which by breaking of its <hi>Globules,</hi> and dividing of the ſulphureous <hi>Particles,</hi> which are the <hi>Pabulum</hi> of the vital <hi>Flame,</hi> does either excite what we call a <hi>Fermentation,</hi> or rather by divi<g ref="char:EOLhyphen"/>ding the ſulphureous <hi>Particles,</hi> and ſubduing the <hi>Acid</hi> that held them to<g ref="char:EOLhyphen"/>gether, does increaſe the <hi>Flame</hi> to an intenſe degree. An Inſtance of which we have in common <hi>Fire,</hi> as I have elſewhere taken notice of, and ſhall here again repeat, <hi>viz.</hi> let the <hi>Matter</hi> of which <hi>Fire</hi> is made be laid cloſe together, and then kindled, and it will conſume leiſurely and by de<g ref="char:EOLhyphen"/>grees; whereas let it be laid at ſome little diſtances one from another, and it will conſume with a <hi>rapid</hi> and <hi>in<g ref="char:EOLhyphen"/>tenſe Flame. Salt-Peter</hi> alſo and
+<pb n="69" facs="tcp:64693:43"/>
+                  <hi>Brimſtone</hi> being mixt together, will burn with a gentle and eaſy <hi>Flame;</hi> but by adding a Proportion of <hi>Char<g ref="char:EOLhyphen"/>coal-Duſt</hi> (as is the <hi>Method</hi> in making <hi>Gun-powder</hi>) wherein is contain'd the fixt <hi>Alkaly</hi> of the <hi>Wood,</hi> the ſaid <hi>Alkaly</hi> by cauſing a Diviſion of the <hi>Particles</hi> of the <hi>Nitre</hi> and <hi>Sulphur,</hi> does ſo alter the Property of it, that in<g ref="char:EOLhyphen"/>ſtead of burning placidly and eaſily, the leaſt <hi>Spark</hi> of <hi>Fire</hi> falling into it, will cauſe an <hi>Exploſion, viz.</hi> make it take <hi>Fire</hi> all at once, and ſo be con<g ref="char:EOLhyphen"/>ſumed as 'twere in an inſtant. Are not the <hi>Attacques</hi> of ſome <hi>Fevers</hi> and other <hi>acute Diſtempers</hi> much like to this <hi>Exploſion,</hi> wherein <hi>Nature</hi> ſeems to be overthrown, and the whole <hi>Courſe</hi> of it put out of order almoſt in an inſtant? This is all at preſent I think neceſſary to take notice of in relation to the warm <hi>Particles</hi> you ſpeak of; and that <hi>Acids</hi> are the only <hi>Medicines</hi> to ſuppreſs this unnatural
+<pb n="70" facs="tcp:64693:44"/>
+                  <hi>Heat,</hi> I think I have already made ap<g ref="char:EOLhyphen"/>pear. As for the <hi>Inferences</hi> you are pleaſed to draw from them, I think I have nothing more to do with them, but ſlightly to touch at them, they having already fallen under my Con<g ref="char:EOLhyphen"/>ſideration. And I have ſufficiently demonſtrated that <hi>Alkalies</hi> are the Cauſes of all <hi>preternatural Heats</hi> in our <hi>Bodies.</hi>
+               </p>
+               <p>But ſuppoſing that <hi>preternatural Heats</hi> are occaſioned by the ſupera<g ref="char:EOLhyphen"/>bundance of <hi>Alkalies</hi> in the <hi>Blood,</hi> you ſtill ſeem to be diſſatisfied about them alſo: For, ſay you, if they are fixt ones, how comes it to paſs that on the <hi>Diſſolution</hi> of the <hi>Texture</hi> of the <hi>Blood,</hi> they claim the higheſt <hi>Place,</hi> and nothing will ſerve their turn, but they muſt needs ſwim in the <hi>Serum?</hi> if <hi>Volatile,</hi> how is it that we often-times find this warm <hi>Serum</hi> little better than inſipid? <hi>Volatile</hi> Salts you know are aculeated, and affect
+<pb n="71" facs="tcp:64693:44"/>the <hi>Palat</hi> ſtrongly. May they not rather be of a <hi>ſulphureous Nature,</hi> ſince 'tis the <hi>Nature</hi> of ſuch Subſtan<g ref="char:EOLhyphen"/>ces to ſit uppermoſt on the Diſſolu<g ref="char:EOLhyphen"/>tion of <hi>Bodies?</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> I don't remember that I have any where ſaid that fixt <hi>Alkalies</hi> do claim the higheſt Place in the <hi>Diſ<g ref="char:EOLhyphen"/>ſolution</hi> of <hi>Bodies,</hi> and that they ſwim uppermoſt in the <hi>Liquors,</hi> in which they are diſſolved: But this I believe you infer from my <hi>Experiment</hi> with the <hi>Serum,</hi> which is the lighteſt part of the <hi>Blood,</hi> and therefore is upper<g ref="char:EOLhyphen"/>moſt in the <hi>Poringer,</hi> after it hath ſtood ſome time, and that a Separa<g ref="char:EOLhyphen"/>tion is made in the Parts thereof. Now I did not make uſe of the <hi>Ex<g ref="char:EOLhyphen"/>periment</hi> with the <hi>Serum</hi> and Syrup of <hi>Violets,</hi> thereby to intimate that <hi>Se<g ref="char:EOLhyphen"/>rum</hi> only was over impregnated with <hi>Alkalious</hi> Particles; but that being the moſt colourleſs part of the <hi>Blood,</hi> was therefore moſt proper for
+<pb n="72" facs="tcp:64693:45"/>ſuch an <hi>Experiment:</hi> For ſhould I have made ſuch an <hi>Experiment</hi> with the <hi>fibrous</hi> and <hi>globulous Parts</hi> of the <hi>Blood,</hi> which are combined together in one Maſs, they are ſo imbued with a ſcarlet <hi>Dye,</hi> that a ſmall quantity of it would tinge a great quantity of Solution of Syrup of <hi>Violets</hi> with the ſame <hi>Colour,</hi> altho at the ſame time it were greatly overcharged with <hi>Alkalious</hi> Particles. Therefore in my plain and eaſy way of <hi>anali<g ref="char:EOLhyphen"/>zing</hi> the <hi>Blood,</hi> I have made uſe of it altogether, as it came out of the <hi>Veins.</hi> But if a Man conſiders with what <hi>Rapidity</hi> the <hi>Blood</hi> moves along the <hi>Veſſels,</hi> it is impoſſible but all the Parts muſt be ſo mixt together, that if the <hi>Serum</hi> be overcharged with <hi>Al<g ref="char:EOLhyphen"/>kalious</hi> Particles, the other parts muſt be ſo alſo; or if the other parts be overcharged, the <hi>Serum</hi> muſt be in like manner ſo. But however, as for ſixt <hi>Alkalies,</hi> the <hi>Blood</hi> is very rare<g ref="char:EOLhyphen"/>ly
+<pb n="73" facs="tcp:64693:45"/>overcharged with them, the <hi>Sub<g ref="char:EOLhyphen"/>ſtances</hi> we take in for our <hi>Nouriſhment</hi> affording very little of them after burning; and therefore <hi>Nature</hi> has provided but one <hi>Emunctory</hi> for the carrying them off, <hi>viz.</hi> the <hi>Ductus Biliaris,</hi> which empties it ſelf into the <hi>Duodenum,</hi> and is conveyed off along with the <hi>Excrement</hi> of our <hi>Food</hi> by <hi>ſtool:</hi> Whereas there are <hi>Millions</hi> of <hi>Emunctories,</hi> beſides that great <hi>Diſ<g ref="char:EOLhyphen"/>charge</hi> that is made by <hi>Urine,</hi> to carry off the <hi>Volatile Alkaly.</hi> But if at any time the <hi>Glands</hi> of the <hi>Liver</hi> are ob<g ref="char:EOLhyphen"/>ſtructed, that the fixt <hi>Alkaly</hi> cannot be ſeparated from the <hi>Blood,</hi> what fatal <hi>Effects</hi> does it produce?</p>
+               <p>I have ſcarce ever known a true <hi>Aſcites</hi> (which is that kind of <hi>Dropſy</hi> that is ſcarcely ever to be cured) which hath not had its <hi>Origine</hi> from an <hi>Obſtruction</hi> of thoſe <hi>Veſſels</hi> in the <hi>Liver,</hi> which ſeparate the <hi>Bile</hi> from the <hi>Blood.</hi> Nay frequently they have
+<pb n="74" facs="tcp:64693:46"/>a <hi>Jaundice</hi> upon them thro the whole <hi>Courſe</hi> of the <hi>Diſtemper.</hi> But if not ſo, I never yet knew an <hi>Aſcites</hi> that had not a <hi>Jaundice</hi> preceded it; and in what manner the whole <hi>Oeconomy</hi> of the <hi>Body</hi> is deſtroyed in this <hi>Diſtem<g ref="char:EOLhyphen"/>per,</hi> is but too well known. But this is not the only <hi>Diſtemper</hi> that hath its <hi>Origine</hi> from the <hi>Obſtruction</hi> of theſe <hi>Veſſels,</hi> tho it be one of the moſt dan<g ref="char:EOLhyphen"/>gerous.</p>
+               <p>
+                  <hi>Secondly,</hi> As for what you ſay con<g ref="char:EOLhyphen"/>cerning the <hi>Inſipidneſs</hi> of the <hi>Taſte</hi> of the warm <hi>Serum,</hi> I ſuppoſe you mean that <hi>Serum</hi> which is overheated in <hi>Fevers,</hi> &amp;c. the <hi>Serum</hi> being always <hi>warm,</hi> whilſt People are alive. I can aſſure you it is contrary to my long <hi>Experience;</hi> for of many Years, it has been my Cuſtom to taſte the <hi>Se<g ref="char:EOLhyphen"/>rum</hi> of the <hi>Blood</hi> not only in <hi>Fevers,</hi> but all other <hi>Diſtempers,</hi> where I have had occaſion to preſcribe <hi>Blood-letting;</hi> and in ſome <hi>Fevers</hi> I have found the
+<pb n="75" facs="tcp:64693:46"/>
+                  <hi>Volatile Salt</hi> to bite my Tongue very ſeverely, but never once could find the <hi>Serum</hi> inſipid: and by this way of taſting I can better judg of the Con<g ref="char:EOLhyphen"/>dition of my <hi>Patient</hi> than from the <hi>Colour</hi> of the <hi>Blood.</hi> But in thoſe Ca<g ref="char:EOLhyphen"/>ſes where the <hi>Serum</hi> is much <hi>inviſcated,</hi> as in moſt <hi>Pleuriſies, Rheumatiſms,</hi> and many <hi>Fevers,</hi> the <hi>Volatile Alkaly</hi> is ſo involved, that it doth not very ſtrong<g ref="char:EOLhyphen"/>ly affect the <hi>Taſte,</hi> tho it is never in<g ref="char:EOLhyphen"/>ſipid that I could ever yet find. As for <hi>Volatile Salts</hi> being aculeated, and affecting the <hi>Palat</hi> ſtrongly, I am very glad you take notice of it, ſince the general <hi>Notion</hi> that moſt people have of all <hi>Alkalies</hi> is, that they are of ſuch a ſweet, ſoft, mild <hi>Nature,</hi> that they carry a ſanative <hi>Virtue</hi> a<g ref="char:EOLhyphen"/>long with them wherever they go.</p>
+               <p>
+                  <hi>Thirdly,</hi> I own that <hi>ſulphureous</hi> Sub<g ref="char:EOLhyphen"/>ſtances are wont to ſit uppermoſt in the <hi>Diſſolution</hi> of <hi>Bodies;</hi> and that the <hi>Blood</hi> is <hi>impregnated</hi> with ſuch <hi>Sub<g ref="char:EOLhyphen"/>ſtances,</hi>
+                  <pb n="76" facs="tcp:64693:47"/>I am far from denying; but they appear in all reſpects to be equal<g ref="char:EOLhyphen"/>ly diſtributed through all its parts: but ſuppoſe they ſhould ſit uppermoſt here, and the <hi>Serum</hi> more impregna<g ref="char:EOLhyphen"/>ted with them than the <hi>globulous</hi> and <hi>fibrous parts</hi> of the <hi>Blood, Sulphureous</hi> Subſtances won't change Syrup of <hi>Vi<g ref="char:EOLhyphen"/>olets</hi> from blue to green; and the <hi>Serum</hi> abounding with thoſe <hi>Particles</hi> that will do ſo, which are <hi>Alkalies,</hi> theſe <hi>Alkalious Particles</hi> by breaking and di<g ref="char:EOLhyphen"/>viding the <hi>Particles</hi> of the <hi>Sulphur</hi> will increaſe and excite the <hi>Flame,</hi> I have before taken notice of, to a more in<g ref="char:EOLhyphen"/>tenſe degree: For the <hi>Serum</hi> would not be the more hot, ſuppoſing it did abound with ſulphureous Particles, unleſs the ſaid Particles were ſome way or other enkindled.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> But <hi>thirdly,</hi> if <hi>Alkalies</hi> are the Original of all <hi>Diſtempers,</hi> whence is it that in <hi>Dropſies, Ca<g ref="char:EOLhyphen"/>tarrhs,</hi>
+                     <pb n="77" facs="tcp:64693:47"/>ſome <hi>Gouts,</hi> and other <hi>Diſ<g ref="char:EOLhyphen"/>tempers,</hi> we find the <hi>Texture</hi> of the <hi>Blood</hi> ſo thin? 'Tis obſervable that thoſe <hi>Particles</hi> you term <hi>Alkalies,</hi> the more the <hi>Blood</hi> is ſaturated with them, the more thick conſiſtence it is of, as we ſee in <hi>Pleuriſies, Rheu<g ref="char:EOLhyphen"/>matiſms,</hi> and other <hi>inflammatory Caſes</hi> (in which <hi>Diſtempers,</hi> if in any, theſe <hi>Alkalies</hi> abound) is not then its <hi>Tenuity</hi> rather to be imputed to <hi>Acids?</hi> Do not <hi>Acids</hi> immediately put the <hi>Blood</hi> in a <hi>Fuſion,</hi> and render it thin?</p>
+               </q>
+               <p>
+                  <label>Anſw.</label> In moſt inflammatory <hi>Caſes,</hi> where the <hi>Blood</hi> is immediately affect<g ref="char:EOLhyphen"/>ed, there the <hi>Serum</hi> is <hi>viſcous</hi> and <hi>ſizy,</hi> being overcharged with <hi>Alkalious Par<g ref="char:EOLhyphen"/>ticles;</hi> but in thoſe <hi>Caſes</hi> you mention, and in ſome others, where the <hi>Blood</hi> is over thin, it is not the over Thinneſs of the <hi>Blood</hi> which is the only Cauſe of thoſe <hi>Diſeaſes,</hi> but a <hi>Deſtruction</hi> of the <hi>Tone</hi> of the <hi>Parts;</hi> and where the <hi>Tone</hi>
+                  <pb n="78" facs="tcp:64693:48"/>of any <hi>Part</hi> is once ſpoiled, the great quantity of <hi>excrementitious Matter</hi> is ſoon thrown thence, and ſo the <hi>Violence</hi> of the <hi>Malady</hi> is increaſed: Beſides, in <hi>Dropſies</hi> the Quantity of <hi>fluid</hi> taken in, they being always thirſty, is ſo very diſproportionate to what is car<g ref="char:EOLhyphen"/>ried off, they always making Water but in very ſmall quantities in pro<g ref="char:EOLhyphen"/>portion to what they drink, that it's no marvel that their <hi>Blood</hi> is over thin. I have frequently in <hi>Dropſies</hi> known People drink <hi>three Quarts</hi> in a day, when they have not piſſed a <hi>Pint:</hi> And that <hi>Acids</hi> ſhould occa<g ref="char:EOLhyphen"/>ſion the <hi>Thirſt</hi> that attends <hi>Hydropi<g ref="char:EOLhyphen"/>cal</hi> People, is ridiculous to imagine, when they are the only things in the World that will quench <hi>Thirſt.</hi> Be<g ref="char:EOLhyphen"/>ſides, do but conſider the <hi>Nature</hi> of the Medicines that are moſt effectual to bring the <hi>Blood</hi> to a Conſiſtence, when it is over thin. I have ſcarcely ever met with any thing equal to <hi>Ca<g ref="char:EOLhyphen"/>libeats,</hi>
+                  <pb n="79" facs="tcp:64693:48"/>and that <hi>Steel</hi> is an <hi>Acid</hi> I have elſewhere endeavoured to prove: And as a farther <hi>Proof</hi> of it I ſhall produce the <hi>Teſtimony</hi> of <hi>Beckerus</hi> (no contemptible Man) in his <hi>Minera A<g ref="char:EOLhyphen"/>renaria,</hi> pag. the <hi>88th. Non recenſebo jam qualiter ille ſpiritus eſurinus in aquis ſubterraneis latitans, varia ſibi Salium, Aluminum, Vitriolorum, Sulphurum, Re<g ref="char:EOLhyphen"/>algarium mineralium compoſitionum ſpecies producat; nec demonſtrabo, quâ ratione ſupra terram in Aeris regione tractus qui<g ref="char:EOLhyphen"/>dam hujus Acidi ſpiritus de uno Polo ad alterum, &amp; perillum acus Magnetica fe<g ref="char:EOLhyphen"/>ratur. Hoc tantum hic loci allegabo, omne Acidum ſubſtantiae martialis eſſe, in quo<g ref="char:EOLhyphen"/>cunque oleo, pinguedine, fuligine, limo, ſilice &amp; arena; imo etiam ipſa flamma re<g ref="char:EOLhyphen"/>peribile, ac ad oculum demonſtrari poſſe: quaecunque ergo naturae Acidae &amp; martia<g ref="char:EOLhyphen"/>lis ſunt, illa poteſtatem habent Alkali tan<g ref="char:EOLhyphen"/>quam ſubſtantiam metallorum mercurialem alterandi &amp; tranſmutandi.</hi> Now if this <hi>Thinneſs</hi> of the <hi>Blood</hi> be to be taken off,
+<pb n="80" facs="tcp:64693:49"/>and the <hi>Blood</hi> brought to its due <hi>Con<g ref="char:EOLhyphen"/>ſiſtence</hi> by the means of <hi>Acids,</hi> it is not reaſonable to ſuppoſe that <hi>Acids</hi> ſhould be the cauſe of its fuſion. But then I confeſs here lies a great <hi>Diffi<g ref="char:EOLhyphen"/>culty, viz.</hi> how is it poſſible for <hi>Acids</hi> to make the <hi>Blood</hi> thin, when 'tis too thick and viſcous, and to bring it to a due conſiſtence, when it is o<g ref="char:EOLhyphen"/>ver fluid? To which I anſwer, That ſhould I pretend to give an account what <hi>Acids</hi> taken in the proper Lati<g ref="char:EOLhyphen"/>tude would do, I ſhould be guilty of the greateſt Arrogance imaginable; for that would be to pretend to as much Knowledg as <hi>Solomon</hi> had, who knew the <hi>Virtues</hi> of <hi>Plants</hi> even from the <hi>Cedar</hi> of <hi>Lebanon</hi> to the <hi>Hyſop</hi> which grows upon the <hi>Wall.</hi> And <hi>Divine Providence</hi> had determined him to be the wiſeſt of <hi>Men</hi> that had ever been before him, or that ſhould come after him. All <hi>Plants</hi> from the great<g ref="char:EOLhyphen"/>eſt to the ſmalleſt are principally
+<pb n="81" facs="tcp:64693:49"/>compoſed of <hi>Acido-ſulphureous.</hi> Par<g ref="char:EOLhyphen"/>ticles; for what Compariſon is there to be made between the ſmall quan<g ref="char:EOLhyphen"/>tity of fixt <hi>Alkaly</hi> that is to be found in the <hi>Aſhes</hi> after burning, and of <hi>Volatile Alkaly</hi> in the <hi>Soot,</hi> in relation to the great quantity of <hi>Acido ſulphu<g ref="char:EOLhyphen"/>reous</hi> matter that is ſpent in <hi>Flame?</hi> Or to come nearer to the matter, let a <hi>Pound</hi> of any <hi>Vegetable,</hi> which af<g ref="char:EOLhyphen"/>fords the greateſt quantity of fixt <hi>Al<g ref="char:EOLhyphen"/>kaly,</hi> viz. <hi>Broom,</hi> or any ſuch <hi>Plant,</hi> be ſufficiently dried, ſo that the <hi>ſu<g ref="char:EOLhyphen"/>perfluous Humidity</hi> may be evaporated; after that is done, let it be commit<g ref="char:EOLhyphen"/>ted to <hi>Diſtillation per ſe,</hi> and it will afford between <hi>two</hi> and <hi>three Ounces</hi> of an <hi>Acid Spirit,</hi> with a good quan<g ref="char:EOLhyphen"/>tity of <hi>Oil,</hi> when all the <hi>Art</hi> of <hi>Man</hi> is not able to procure from the <hi>Caput Mortuum</hi> above <hi>two Drams</hi> of <hi>fixt Al<g ref="char:EOLhyphen"/>kaly,</hi> and, as is before obſerved, <hi>Broom</hi> is one of thoſe <hi>Plants</hi> that affords the largeſt quantity of <hi>fixt Al<g ref="char:EOLhyphen"/>kaly.</hi>
+                  <pb n="82" facs="tcp:64693:50"/>Now the <hi>Acid</hi> Spirit and <hi>Oil</hi> are thoſe <hi>Subſtances,</hi> which in burn<g ref="char:EOLhyphen"/>ing ſerve to ſupply the <hi>Flame:</hi> and from the <hi>Caput Mortuum,</hi> unleſs it be afterwards burnt, there is no <hi>fixt Alka<g ref="char:EOLhyphen"/>ly</hi> to be obtained. But here again to obviate the <hi>Objection</hi> before taken notice of, <hi>viz.</hi> that the <hi>Fire</hi> may pro<g ref="char:EOLhyphen"/>duce new Subſtances, which were not exiſtent in <hi>Bodies</hi> before, or that for inſtance, the fixt <hi>Alkaly</hi> to be pro<g ref="char:EOLhyphen"/>duced out of the <hi>Aſhes</hi> of the <hi>Caput Mortuum</hi> of the <hi>Broom,</hi> is only the <hi>Pro<g ref="char:EOLhyphen"/>duct</hi> of the <hi>Fire:</hi> If this were ſo, why then the <hi>Aſhes</hi> after all the <hi>Salt</hi> has been once <hi>extracted,</hi> being again commit<g ref="char:EOLhyphen"/>ted to a Violent <hi>Fire</hi> muſt produce more <hi>Salt;</hi> whereas on the contrary let it be <hi>committed</hi> to the <hi>Fire</hi> in the moſt violent <hi>degree</hi> of <hi>heat,</hi> and con<g ref="char:EOLhyphen"/>tinued there for never ſo long a time, yet it will never after <hi>afford</hi> the <hi>leaſt</hi> quantity of <hi>Salt</hi> of any kind. But that I may return to anſwer the form<g ref="char:EOLhyphen"/>er
+<pb n="83" facs="tcp:64693:50"/>
+                  <hi>Objection,</hi> viz. how <hi>Acids</hi> are capa<g ref="char:EOLhyphen"/>ble of making the <hi>Blood thin</hi> when <hi>o<g ref="char:EOLhyphen"/>ver viſcous,</hi> and alſo to reduce it to its <hi>conſiſtency</hi> when it is <hi>over thin:</hi> All the <hi>Bodies</hi> in <hi>Nature</hi> are differently <hi>ſpecifi<g ref="char:EOLhyphen"/>cated</hi> by the <hi>all-wiſe Author</hi> of <hi>Nature,</hi> and at the ſame time are all <hi>animated</hi> by one <hi>Univerſal Acid Spirit,</hi> which is what the <hi>Antients</hi> were wont to call the <hi>Soul</hi> of the <hi>World,</hi> and I think not improperly. Now the more any <hi>Bodies</hi> are impregnated with this uni<g ref="char:EOLhyphen"/>verſal <hi>Acid</hi> Spirit, and its beloved <hi>Siſ<g ref="char:EOLhyphen"/>ter Sulphur,</hi> the more perfect they are; and <hi>Gold,</hi> which is one of the moſt perfect and durable <hi>Bodies</hi> in <hi>Nature,</hi> ſeems to be compoſed of nothing elſe but a pure <hi>Acidum</hi> and <hi>Sulphur,</hi> as I think has been ſufficiently made ap<g ref="char:EOLhyphen"/>pear by ſome of the moſt ſtrict <hi>En<g ref="char:EOLhyphen"/>quirers</hi> into <hi>Nature's Secrets.</hi> Now the more perfect any <hi>Bodies</hi> are, the more <hi>Acidum</hi> and <hi>Sulphur</hi> they contain, and afford the leaſt quantity of <hi>Excre<g ref="char:EOLhyphen"/>ment,</hi>
+                  <pb n="84" facs="tcp:64693:51"/>viz. <hi>Alkaly,</hi> that being the only <hi>Deſtroyer</hi> of all <hi>Bodies,</hi> and is what brings them to a ſtate of <hi>Putrefaction</hi> and <hi>Corruption.</hi> Well, but what's all this to the anſwering of the <hi>Objection</hi> twice ſtarted? Why it's only to make my way clear. But I ſhall now ap<g ref="char:EOLhyphen"/>ply my ſelf to it. There are <hi>two</hi> general ſorts of <hi>Acids, viz.</hi> mani<g ref="char:EOLhyphen"/>feſt, and inveloped ones: the manifeſt ones are ſuch as immediately appear to the <hi>Taſte;</hi> and theſe, altho origi<g ref="char:EOLhyphen"/>nally the ſame, proceeding from the ſame univerſal <hi>Fountain,</hi> yet have dif<g ref="char:EOLhyphen"/>ferent <hi>Operations</hi> upon <hi>Human Bodies.</hi> The inveloped ones are ſuch as do not immediately appear to the <hi>Taſte,</hi> but by taking of the <hi>Bodies</hi> aſunder appear to be ſuch. There is an <hi>Axi<g ref="char:EOLhyphen"/>om</hi> that, <hi>Unumquodque in id diſſolvitur unde compactum eſt:</hi> Every thing is diſſolved into that whereof it is made. Now if this <hi>Axiom</hi> be true, as I think it is an infallible one, a Man may
+<pb n="85" facs="tcp:64693:51"/>reaſonably conclude that thoſe <hi>Bodies,</hi> which upon their Diſſolution are re<g ref="char:EOLhyphen"/>duced into <hi>Acid</hi> Subſtances, are <hi>Acids,</hi> tho before their Diſſolution they did not appear to be ſo. Moſt <hi>Vegetables</hi> upon the Diſſolution of them, or ana<g ref="char:EOLhyphen"/>lyzing by the <hi>Fire,</hi> appear principally to be compoſed of <hi>Acid</hi> Subſtances; and therefore I think are to be ac<g ref="char:EOLhyphen"/>counted <hi>Acids,</hi> altho they are ſo dif<g ref="char:EOLhyphen"/>ferently ſpecificated, and have ſuch different <hi>Operations</hi> upon <hi>Human Bodies,</hi> that a Man who has not nicely exa<g ref="char:EOLhyphen"/>mined them, would be tempted to believe that the original conſtituent <hi>Parts</hi> of them were much more dif<g ref="char:EOLhyphen"/>ferent than they are. Now the more perfect and durable any <hi>Vegetable</hi> is, the greater quantity of <hi>Acidum</hi> and <hi>Sulphur</hi> it affords, and leſs of excre<g ref="char:EOLhyphen"/>mentitious <hi>Alkaly.</hi> And from the different Combinations of the two Siſters <hi>Acidum</hi> and <hi>Sulphur,</hi> I believe it poſſible to give a very probable Ac<g ref="char:EOLhyphen"/>count
+<pb n="86" facs="tcp:64693:52"/>of all the differences in <hi>Plants</hi> as to <hi>Colour, Taſte,</hi> &amp;c. And as theſe two <hi>perfect</hi> (if it be lawful to call any natural thing perfect) Principles are more or leſs clogged with excre<g ref="char:EOLhyphen"/>mentitious <hi>Allkaly,</hi> ſo they are more or leſs durable as to themſelves, and more or leſs friendly to <hi>Human</hi> Bodies, for whoſe uſe they were principally created; ſo that here you may ſee, that when I preach up <hi>Acids,</hi> it is not only <hi>Vinegar, Lemons, Oil</hi> of <hi>Vitriol, Oil</hi> of <hi>Sulphur,</hi> &amp;c. that I recommend, but all the perfect Parts of the <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> and decry the uſe of thoſe things that are the Principles of <hi>Death</hi> and <hi>Deſtruction</hi> in Bodies, viz. <hi>Alkalies.</hi> From what I have before ſaid I think I may without Preſumption, reckon <hi>Oak-bark</hi> amongſt the number of <hi>A<g ref="char:EOLhyphen"/>cids;</hi> and yet <hi>Oak-bark</hi> being given in <hi>Subſtance,</hi> or a <hi>Decoction</hi> of it, is ſo far from making the <hi>Juices</hi> over fluid or thin, that it will reduce them to a
+<pb n="87" facs="tcp:64693:52"/>
+                  <hi>Conſiſtence,</hi> when they are ſo: the ſame may be ſaid of <hi>Biſtort, Tor<g ref="char:EOLhyphen"/>mentil,</hi> and abundance of things of that <hi>Tribe:</hi> the ſame thing will <hi>Com<g ref="char:EOLhyphen"/>fry Roots</hi> do, and all the things of that <hi>Tribe;</hi> the ſame I could ſay of many more, but here I have not room to expatiate. <hi>Aſparagus, Par<g ref="char:EOLhyphen"/>ſley,</hi> &amp;c. will make the <hi>Juices</hi> fluid when they are over thick and <hi>viſcous,</hi> and ſo will a multitude of things more of that <hi>Tribe.</hi> I could range my ſelf out into the mineral <hi>Kingdom,</hi> but the different <hi>Operations</hi> of them are ſo well known to every body, that I think it needleſs to take any particu<g ref="char:EOLhyphen"/>lar notice of them: yet this much I will preſume to ſay, altho it be fo<g ref="char:EOLhyphen"/>reign to my preſent Deſign, that af<g ref="char:EOLhyphen"/>ter having made all the Enquiry into the <hi>Nature</hi> of <hi>Metals</hi> that <hi>Human Induſ<g ref="char:EOLhyphen"/>try</hi> is capable of, I am perfectly ſatiſ<g ref="char:EOLhyphen"/>fied that they differ one from another only in <hi>degrees</hi> of <hi>Purity;</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="88" facs="tcp:64693:53"/>for ought I know the Buſineſs of <hi>Tranſmutation</hi> is not ſo ridiculous a thing as ſome People would make it. As to thoſe <hi>Acids</hi> that are manifeſtly ſo, they greatly differ in their Opera<g ref="char:EOLhyphen"/>tions upon <hi>Human</hi> Bodies. I have before obſerved that there are thoſe which may properly be called <hi>Acido-ſulphurea,</hi> and others <hi>Sulphureo-Acida:</hi> but in Nature I don't know a ſimple <hi>Acid</hi> or a ſimple <hi>Sulphur,</hi> there being ſuch an indeſtructible <hi>Bond</hi> of <hi>Union</hi> and <hi>Friendſhip</hi> between them, that they are never one without the other. Now thoſe <hi>Acids</hi> that have moſt <hi>Sul<g ref="char:EOLhyphen"/>phur</hi> united with them are <hi>Aperitives, Openers</hi> of <hi>Obſtructions,</hi> and keep the <hi>Blood</hi> and <hi>Juices</hi> in a proper ſtate of <hi>Flu<g ref="char:EOLhyphen"/>idity:</hi> Thoſe that have little <hi>Sulphur</hi> mix'd with them are <hi>Stipticks,</hi> and bring the <hi>Blood</hi> and <hi>Juices</hi> to a Conſiſtence, when they are over fluid. What I have ſaid upon this <hi>Subject</hi> is not the effect of <hi>Fancy,</hi> but of a <hi>Series</hi> of
+<pb n="89" facs="tcp:64693:53"/>ſeveral Years ſtrict and nice Obſerva<g ref="char:EOLhyphen"/>tions.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> Beſides, if <hi>Alkalies</hi> did always offend and cauſe <hi>Pain,</hi> it muſt follow that <hi>Acids</hi> muſt give eaſe: But I aſſure you I have often experienced the contrary; for up<g ref="char:EOLhyphen"/>on the exhibition of <hi>Rheniſh, White-Wine,</hi> and other <hi>Acids,</hi> I have found the <hi>Pains</hi> immediately exaſperated, and many times it has been a long while e're they went off.</p>
+               </q>
+               <p>
+                  <label>Anſwer.</label> If <hi>Alkalies</hi> cauſe <hi>Pain,</hi> I do agree with you, that <hi>Acids</hi> of con<g ref="char:EOLhyphen"/>ſequence muſt give eaſe; but I don't ſuppoſe that an ill habit of <hi>Body,</hi> that has been perhaps ſome <hi>Months</hi> or <hi>Years</hi> a contracting, is to be altered with a few <hi>Doſes</hi> of the moſt exalted <hi>Medi<g ref="char:EOLhyphen"/>cine</hi> in the World, let it be <hi>Acid,</hi> or what you pleaſe. But ſuppoſing <hi>A<g ref="char:EOLhyphen"/>cids</hi>
+                  <pb n="90" facs="tcp:64693:54"/>to be the moſt proper <hi>Medicines</hi> in the World to eaſe <hi>Pain,</hi> as I believe they are; yet it is not improbable, but upon the giving a ſmall quantity of <hi>Acid</hi> in ſuch caſes where there is a large quantity of <hi>Alkaly</hi> lodged up<g ref="char:EOLhyphen"/>on any <hi>Part,</hi> ſo as to cauſe <hi>Pain,</hi> it may only in part diſſolve the <hi>Alkaly,</hi> which was before more fixt, and ſo by accident may exaſperate the <hi>Pain;</hi> whereas by continuing the uſe of the <hi>Acid,</hi> the <hi>Alkaly</hi> would be perfectly diſſolved and extirpated, and ſo the <hi>Pain</hi> would altogether vaniſh: But <hi>Pain</hi> being ſometimes exaſperated upon the firſt giving of them in too ſmall quantities, has, I doubt not, been one great Cauſe of deterring people from proceeding in the uſe of them, and alſo of attributing to them the Cauſe of <hi>Pain:</hi> But in great <hi>Pains</hi> it is my conſtant <hi>Practice</hi> to ap<g ref="char:EOLhyphen"/>ply <hi>Acids</hi> externally to the <hi>Part</hi> af<g ref="char:EOLhyphen"/>fected, as well as give them inward<g ref="char:EOLhyphen"/>ly;
+<pb n="91" facs="tcp:64693:54"/>and there are but very few <hi>Pains,</hi> eſpecially <hi>Gouty</hi> and <hi>Rheumatick</hi> ones, that I am not able to overcome in a ſmall time. And for the <hi>Pain</hi> you ſay you have often found to be excited upon the giving of <hi>Rheniſh</hi> and <hi>White Wine,</hi> I have aſſigned a Reaſon for that, if they are drunk in too large quantities, both in my <hi>Eſſay</hi> of <hi>Alka<g ref="char:EOLhyphen"/>ly</hi> and <hi>Acid,</hi> and in my <hi>Tract</hi> of the <hi>Gout;</hi> and therefore ſhall not again repeat it, but refer you thither.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> Again, if the <hi>Gout</hi> pro<g ref="char:EOLhyphen"/>ceed from an <hi>Alkaly,</hi> what is the reaſon you uſe ſo much <hi>Saſſafras</hi> in its Cure? Is <hi>Saſſafras</hi> an <hi>Acid,</hi> and ſo proper to ſubdue this <hi>Al<g ref="char:EOLhyphen"/>kaly?</hi>
+                  </p>
+               </q>
+               <p>
+                  <label>Anſwer.</label> I can cure the <hi>Gout,</hi> if there were no ſuch thing as <hi>Saſſafras;</hi> I only uſe <hi>Saſſafras</hi> in <hi>Apozems,</hi> as a proper <hi>Vehicle</hi> to dilute other <hi>Medicines</hi>
+                  <pb n="92" facs="tcp:64693:55"/>in the <hi>Stomach.</hi> But however <hi>Saſſa<g ref="char:EOLhyphen"/>fras</hi> is no contemptible <hi>Medicine;</hi> and if you will but give your ſelf the trouble of <hi>Diſtilling</hi> a <hi>Pound</hi> or <hi>two</hi> of it in a <hi>Retort per ſe,</hi> if you afterwards reckon <hi>Saſſafras</hi> amongſt the number of <hi>Alkalies,</hi> I am miſtaken; and if I am ſo, I ſhall willingly own it.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> I have only a word or two to ſpeak concerning the <hi>green Colour</hi> of Syrup of <hi>Violets,</hi> and ſo I have done. I believe it may be turned <hi>green</hi> without an <hi>Alkaly:</hi> On the exhibition of it to <hi>Infants</hi> it comes away green very often, and brings away a great deal of <hi>green Matter</hi> by ſtool; and yet I believe they do not abound with <hi>Alkalies.</hi>
+                  </p>
+               </q>
+               <p>
+                  <label>Anſw.</label> I own that upon the exhibi<g ref="char:EOLhyphen"/>tion of <hi>Syrup</hi> of <hi>Violets</hi> to <hi>Infants</hi> it will frequently occaſion <hi>green Stools:</hi> But
+<pb n="93" facs="tcp:64693:55"/>from whence doth that proceed, but from its <hi>Mixture</hi> with the <hi>Bile</hi> in the <hi>ſmall Guts?</hi> and that the <hi>Bile</hi> is an <hi>Al<g ref="char:EOLhyphen"/>kaly</hi> I know not any one that doubts.</p>
+               <q>
+                  <p>
+                     <label>Letter.</label> You may read in a late <hi>Author</hi> of undoubted <hi>Credit,</hi> that upon an <hi>Infant's</hi> ſwallowing of a <hi>Doſe</hi> of <hi>Teſtaceous Pouder,</hi> an extra<g ref="char:EOLhyphen"/>ordinary <hi>Ferment</hi> was raiſed in the <hi>Stomach</hi> of the <hi>Child:</hi> Now how could this <hi>Ferment</hi> be raiſed, if it had not an <hi>Acid</hi> to work upon? Beſides, does not <hi>Experience</hi> ſhew that nothing is ſo proper in <hi>Infants Diſtempers</hi> as <hi>Alkalies?</hi>
+                  </p>
+               </q>
+               <p>
+                  <label>Anſwer.</label> The <hi>Author</hi> you ſpeak of is my ſingular good <hi>Friend,</hi> and a Man for whom I have a very great <hi>Value</hi> and <hi>Eſteem;</hi> and as to the <hi>Truth</hi> of the <hi>Relation</hi> you mention, I can readily aſſent to it: But if you have read the <hi>Appendix</hi> to my <hi>Eſſay</hi> of <hi>Alka<g ref="char:EOLhyphen"/>ly</hi>
+                  <pb n="94" facs="tcp:64693:56"/>and <hi>Acid,</hi> you cannot but remem<g ref="char:EOLhyphen"/>ber, that I there acknowledg that <hi>A<g ref="char:EOLhyphen"/>cids</hi> may ſometimes abound in the <hi>Stomach,</hi> and cauſe a <hi>Diſorder,</hi> but in no other part of the <hi>Body;</hi> which thing I have ſo fully handled in that place, that ſhould I recite what I have there ſaid upon this <hi>Subject,</hi> my Enemies would accuſe me of <hi>Tauto<g ref="char:EOLhyphen"/>logy,</hi> and therefore thither I ſhall re<g ref="char:EOLhyphen"/>fer you: and if what I have there ſaid be not ſatisfactory to you, I ſhall endeavour to give you what further Satisfaction I am able. As for the <hi>Cure</hi> of <hi>Infants Diſeaſes,</hi> I don't ſee but that they require the ſame <hi>Methods</hi> to be taken with them, as with grown <hi>People,</hi> only the <hi>Medicines</hi> given them muſt be more mild and gentle, and in leſs quantities, conſidering the won<g ref="char:EOLhyphen"/>derful <hi>Tenderneſs</hi> of their <hi>Natures.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="letter">
+                  <body>
+                     <p>
+                        <label>Letter.</label> I have ſome more things to offer; but I deſire you would
+<pb n="95" facs="tcp:64693:56"/>be pleaſed to ſatisfy me as to theſe. I ſhould be glad to cloſe with your Opinion, and embrace any thing that is new; for I believe <hi>Medicine,</hi> tho it has met with great <hi>Improve<g ref="char:EOLhyphen"/>ments</hi> of late, to be capable of far greater. I'll give you no farther trouble, only after thanks to you for your indefatigable <hi>Labour</hi> in ſearching out the Truth of things, ſubſcribe</p>
+                     <closer>
+                        <signed>Your humble Servant, F. T</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <label>Anſwer.</label> I have endeavoured to give you what ſatisfaction I am able as to the <hi>Objections</hi> you have already raiſed, and ſhall think no labour too much to anſwer any farther <hi>Objections</hi> you have to offer. I don't deſire of you, or any elſe, to take up with any thing that comes from me, without
+<pb n="96" facs="tcp:64693:57"/>examining it in the <hi>Balances</hi> of Rea<g ref="char:EOLhyphen"/>ſon and Experience; and if after ſuch <hi>Examination</hi> you find what I have advanced to be Truth, I don't doubt but to find you a zealous <hi>Champion</hi> in my <hi>Cauſe:</hi> But if otherwiſe, I beg of you that you will convince me of my Errors, and I ſhall be very ready to write a <hi>Recantation.</hi> As for the <hi>Im<g ref="char:EOLhyphen"/>provements</hi> that have been made of late, they have principally belonged to <hi>Anatomy,</hi> and indeed they have been very conſiderable; and of all the <hi>Phy<g ref="char:EOLhyphen"/>ſicians</hi> of <hi>Europe,</hi> thoſe of our own <hi>Nation</hi> have had the greateſt hand in them. But as for the <hi>Improvements</hi> in the practical Part of <hi>Phyſick</hi> (ſetting aſide the <hi>Diſcovery</hi> of the uſe of the <hi>Peruvian Bark</hi> in the Cure of <hi>Agues</hi>) they are very inconſiderable: The moſt that has been done of that kind, was done by the <hi>indefatigably Induſtri<g ref="char:EOLhyphen"/>ous</hi> Dr. <hi>Sydenham,</hi> and I heartily wiſh that we had more Dr. <hi>Sydenhams</hi> at this day.</p>
+               <pb n="97" facs="tcp:64693:57"/>
+               <p>Sir, there are abundance of <hi>Imper<g ref="char:EOLhyphen"/>fections</hi> that you will meet with; but if you did but know the great hurry I have been in, and how little time I have had to ſit compoſedly in my Study, you would readily pardon a great many of them: But this I can aſſure you, that had I not had an ear<g ref="char:EOLhyphen"/>neſt deſire to ſerve you with ſome other ſuch <hi>Candid, Ingenuous Perſons</hi> as your ſelf, I would not have deprived my ſelf of ſo many Hours Sleep (ha<g ref="char:EOLhyphen"/>ving little other time to command) as I have been forced to do, to put things in that Order they are: At preſent I have nothing more to add, but that I am</p>
+               <closer>
+                  <signed>Yours to Command, <hi>JOHN COLBATCH.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="case_study">
+            <pb n="98" facs="tcp:64693:58"/>
+            <head>The CASE of <hi>EDMUND TURNER</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <p>ON <hi>Monday Night</hi> about <hi>twelve</hi> a <hi>Clock,</hi> being <hi>Auguſt</hi> the <hi>thirtieth, Madam Turner</hi> came to my Houſe, and told me that Mr. <hi>Turner</hi> was very ill at my Lord <hi>Wharton</hi>'s at <hi>Winchington,</hi> and withal deſired me, that I would im<g ref="char:EOLhyphen"/>mediately get my ſelf ready, and go down to him to take care of him, which accordingly I did, and got to <hi>Winchington</hi> the next day by one a <hi>Clock.</hi> When I came there, I found Dr. <hi>Fry</hi> of <hi>Oxford</hi> had been there ſome time, and was then at <hi>Dinner;</hi> ſo I went up to Mr. <hi>Turner</hi> to inform my ſelf as nicely as poſſibly I could of his <hi>Caſe;</hi> after I had done which, I came
+<pb n="99" facs="tcp:64693:58"/>down to <hi>Dinner,</hi> and as ſoon as <hi>Dinner</hi> was over, I deſired the Doctor that we might conſult together what was proper to be done for the diſtreſſed <hi>Gentleman.</hi> But before I take notice of what paſſed between the Doctor and my ſelf, I ſhall exactly relate the <hi>Caſe,</hi> with the <hi>Occaſion</hi> of his <hi>Illneſs.</hi>
+            </p>
+            <p>On the <hi>Saturday Night</hi> before, Mr. <hi>Turner,</hi> with two other <hi>Gentlemen</hi> ſate down to drink, and continued at it till <hi>ſeven</hi> or <hi>eight</hi> next <hi>Morning,</hi> but I cannot learn that the <hi>Quantities</hi> they drank were extraordinary: At which time they all went to bed, the other <hi>two Gentlemen</hi> lay in <hi>Bed</hi> the whole day, and eat nothing but <hi>Water-Grew<g ref="char:EOLhyphen"/>el;</hi> but Mr. <hi>Turner</hi> got up in the <hi>Af<g ref="char:EOLhyphen"/>ternoon,</hi> and eat boiled <hi>Mutton,</hi> with a great deal of <hi>ſtrong. Broth</hi> with <hi>Muſh<g ref="char:EOLhyphen"/>rooms</hi> in it, and drank plentifully both of <hi>Wine</hi> and prodigious <hi>ſtrong Beer,</hi> and then went to bed again, and pre<g ref="char:EOLhyphen"/>ſently fell aſleep; but early next
+<pb n="100" facs="tcp:64693:59"/>Morning he awaked in the moſt dreadful condition imaginable. When I came to him his <hi>Circumſtances</hi> were as follow.</p>
+            <p>He had a violent <hi>Pleuriſy,</hi> and <hi>Pe<g ref="char:EOLhyphen"/>ripneumony</hi> upon him, as was plainly to be perceived by a moſt ſharp <hi>Pain</hi> in his <hi>left ſide,</hi> which he greatly com<g ref="char:EOLhyphen"/>plained of, and a prodigious <hi>Short<g ref="char:EOLhyphen"/>neſs</hi> of <hi>Breath.</hi> He alſo complained of a wonderful <hi>Nauſea</hi> and <hi>Sickneſs</hi> at his <hi>Stomach,</hi> and had a <hi>Fever</hi> upon him to the moſt intenſe degree, with a great <hi>Stupor</hi> and <hi>Dulneſs</hi> in his <hi>Head.</hi>
+            </p>
+            <p>Dr. <hi>Fry</hi> had ſome Hours before I came ſent a <hi>Preſcription</hi> to Mr. <hi>Williams</hi> an <hi>Apothecary</hi> at <hi>Ailesbury,</hi> of which I have here inſerted an exact <hi>Copy.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="recipes">
+               <body>
+                  <head>For Mr. <hi>Turner, Auguſt</hi> 31. 1697.</head>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Ol. ſem. Lin. rec. (ſine igne) extract. lib. ſemis.</p>
+                     <p>Sig. <hi>The Oil.</hi>
+                     </p>
+                  </div>
+                  <pb n="101" facs="tcp:64693:59"/>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Syr. Balſam. Tolat. Unc. qua<g ref="char:EOLhyphen"/>tuor.</p>
+                     <p>Sig. <hi>the Balſamick Syrup.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Antimonii Diaphoret.</p>
+                     <p>Corallii Rub. <hi>pp</hi>
+                     </p>
+                     <p>Margarit. <hi>pp</hi> ana Dracm. duas.</p>
+                     <p>
+                        <hi>M. f. pul. in Chart.</hi> 12 <hi>equal. reponend.</hi>
+                     </p>
+                     <p>
+                        <hi>Sig.</hi> the Pearl Pouders.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Hiſſopi.</p>
+                     <p>Cichorei ana, unc. ſex</p>
+                     <p>Limacum Mag.</p>
+                     <p>Lumbricor. Mag. ana Unc. unam ſem.</p>
+                     <p>Cinnamom. Hord. Unc. unam</p>
+                     <p>Syr. Capillor. Ven.</p>
+                     <p>Violar. ana Dracm. ſex</p>
+                     <p>
+                        <hi>M. f. Julap.</hi>
+                     </p>
+                     <p>
+                        <hi>Sig.</hi> the Julap.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Emp. de Cicut. cum Ammon. Unc<g ref="char:EOLhyphen"/>duas.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Sem. Cumin. pul. Unc. ſemis.</p>
+                     <closer>
+                        <signed>Dr. <hi>Fry.</hi>
+                        </signed>
+                     </closer>
+                  </div>
+               </body>
+            </floatingText>
+            <pb n="102" facs="tcp:64693:60"/>
+            <p>He had alſo about an hour before I came taken away about <hi>ſeven Ounces</hi> of <hi>Blood,</hi> the ſame quantity having been taken away (as I am informed) the Day before by the Order of Dr. <hi>Wilſon</hi> a <hi>Phyſician</hi> of the <hi>Neighbourhood.</hi> I told Dr. <hi>Fry</hi> that I could not in con<g ref="char:EOLhyphen"/>ſcience agree to the uſe of the <hi>Medicines</hi> he preſcribed. The <hi>Nauſea</hi> at his <hi>Sto<g ref="char:EOLhyphen"/>mach</hi> was ſo great, that I feared the <hi>Linſeed Oil</hi> would increaſe it to ſuch a degree, that it would be of ill conſe<g ref="char:EOLhyphen"/>quence; and for the <hi>teſtaceous Pou<g ref="char:EOLhyphen"/>ders,</hi> &amp;c. they would excite the <hi>Hur<g ref="char:EOLhyphen"/>ry</hi> and <hi>Diſorder</hi> in his <hi>Blood</hi> to a great<g ref="char:EOLhyphen"/>er degree, and increaſe the <hi>Inflammation</hi> of his <hi>Lungs,</hi> and I fear'd inevitably ruin him. He askt me what <hi>Method</hi> I would propoſe? To which I re<g ref="char:EOLhyphen"/>plied, that in my <hi>Opinion</hi> according to the laudable <hi>Cuſtom</hi> of the <hi>Great</hi> Dr. <hi>Cole,</hi> he ought to loſe at leaſt <hi>twenty Ounces</hi> of <hi>Blood</hi> more, which would empty the <hi>Veſſels,</hi> and make room
+<pb n="103" facs="tcp:64693:60"/>for the <hi>Blood</hi> to circulate through the <hi>Lungs:</hi> That at due Intervals he ſhould take a moderate quantity of <hi>Tartarum Vitriolatum</hi> and <hi>Cremor Tar<g ref="char:EOLhyphen"/>tari</hi> in a <hi>Spoonful</hi> of <hi>Syrup</hi> of <hi>Vinegar,</hi> drinking afterwards a large <hi>Draught</hi> of <hi>Pectoral Decoction,</hi> which would take off the <hi>Nauſea</hi> at his <hi>Stomach,</hi> and promote <hi>Expectoration,</hi> and perhaps gently carry off the undigeſted <hi>Mat<g ref="char:EOLhyphen"/>ter,</hi> which lay in his <hi>Stomach</hi> by <hi>Stool:</hi> That he ſhould be allowed moderate<g ref="char:EOLhyphen"/>ly cooling <hi>Liquors</hi> as oft as he deſired them, in every <hi>Draught</hi> of which he might take about <hi>ten Drops</hi> of <hi>dulcified Spirit</hi> of <hi>Nitre,</hi> which might help to take off the <hi>Inflammation</hi> of his <hi>Lungs,</hi> and calm his <hi>Blood:</hi> That he ſhould take a <hi>Spoonful</hi> of a <hi>Mixture</hi> of <hi>Pectoral</hi> Syrups often, in which was contained a convenient quantity of <hi>Oximel</hi> of <hi>Squills,</hi> which is a great <hi>Promoter</hi> of <hi>Expectoration.</hi> To take off the <hi>Stupor</hi> and <hi>Dulneſs</hi> in his <hi>Head,</hi> I propoſed a
+<pb n="104" facs="tcp:64693:61"/>
+               <hi>Cataplaſm</hi> of <hi>Muſtard, Horſe-Raddiſh Roots, Rhue,</hi> and <hi>Caſtor,</hi> to be applied to the <hi>Bottoms</hi> of his <hi>Feet.</hi>
+            </p>
+            <p>To none of theſe things would the <hi>Doctor</hi> comply, neither could I com<g ref="char:EOLhyphen"/>ply with his Methods; ſo after many long Debates, we at laſt agreed to go up ſeparately to Mr. <hi>Turner,</hi> and ac<g ref="char:EOLhyphen"/>quaint him, that we could not agree, and that he muſt diſcharge one of us. Dr. <hi>Fry</hi> went up firſt, and when he came down I went up; but for fear that things might be miſrepreſented, I would not go up unleſs Mr. <hi>Wats</hi> (a Man eminently known in this Ci<g ref="char:EOLhyphen"/>ty) would go with me to hear what I ſaid. Mr. <hi>Wats</hi> at firſt was unwil<g ref="char:EOLhyphen"/>ling, but at laſt conſented. When I came up to Mr. <hi>Turner,</hi> I told him Dr. <hi>Fry</hi> and my ſelf could not agree, and therefore one of us muſt be diſcharged; I likewiſe told him that I had ſufficient reaſon to believe that the <hi>Method</hi> I had propoſed for him
+<pb n="105" facs="tcp:64693:61"/>might retrieve him, but that Dr. <hi>Fry</hi> was more poſitive as to the ſucceſs of his than I would be of any <hi>Method</hi> I could uſe in a much leſs dangerous Caſe than his was, and therefore I thought it was his moſt prudent Me<g ref="char:EOLhyphen"/>thod to continue him: To which he made me no other Anſwer, but de<g ref="char:EOLhyphen"/>ſired me to go down again, and ſee if we could not find a <hi>Method</hi> of <hi>Re<g ref="char:EOLhyphen"/>conciliation,</hi> or Words to that purpoſe: Upon which I went down, and told the Doctor what he ſaid: After a far<g ref="char:EOLhyphen"/>ther Debate without any compliance on either ſide, we agreed at laſt to get Mr. <hi>Wats</hi> to go up and know who muſt be diſcharged: when Mr. <hi>VVats</hi> came down, he brought us word that Mr. <hi>Turner</hi> deſired to ſpeak with us both together; accord<g ref="char:EOLhyphen"/>ingly we went up, and when he ſaw us, he deſired we would not ſtand up<g ref="char:EOLhyphen"/>on any little <hi>Punctilios,</hi> and begged of us that we would give him a Vomit,
+<pb n="106" facs="tcp:64693:62"/>for that after any <hi>Surfeit</hi> he was wont to take a <hi>Vomit,</hi> which always reliev'd him. I readily conſented to give him a <hi>Vomit,</hi> and propoſed <hi>Oximel</hi> of <hi>Squills</hi> with large quantities of <hi>Poſſet-Drink</hi> (as Mr. <hi>Wats</hi> may well remember) and if that did not work, to excite it with Salt of <hi>Vitriol:</hi> But to this nei<g ref="char:EOLhyphen"/>ther would Dr. <hi>Fry</hi> agree, but cloſely urged the uſe of the <hi>Medicines</hi> he had preſcribed, upon which Mr. <hi>Turner</hi> aſſented to take them. I ſtaid all that <hi>Afternoon</hi> and the <hi>Night</hi> following, but had no hand in any thing that was done. I went up with Dr. <hi>Fry</hi> about <hi>ſix</hi> a <hi>Clock</hi> to ſee how he did, and at that time his <hi>Pulſe</hi> ſeemed to be ſome<g ref="char:EOLhyphen"/>what mended, it having been ex<g ref="char:EOLhyphen"/>treamly bad before. About ten (juſt before I went to bed) I went up again with the Doctor to ſee how he was, but then I found a moſt lamentable <hi>Pulſe,</hi> there being nothing but a little trembling <hi>Motion</hi> to be felt; upon
+<pb n="107" facs="tcp:64693:62"/>which I deſired the Doctor to walk out of the <hi>Room</hi> a little, when I told him that things lookt very ill, for that his <hi>Fever</hi> was extreamly high, his <hi>Breath</hi> very ſhort, and his <hi>Pulſe</hi> as is before related, and that if he did not mend that <hi>Pulſe</hi> he would drop his <hi>Patient;</hi> his anſwer was, that all was well e<g ref="char:EOLhyphen"/>nough: upon which I had nothing more to ſay, he not being my <hi>Patient.</hi> Next <hi>Morning</hi> about <hi>ſeven</hi> a <hi>Clock</hi> I went again to ſee him, and found him much after the ſame manner he had been the <hi>Night</hi> before, but the Doctor told me he hoped all would be well; ſo I went to <hi>Breakfaſt,</hi> and whilſt I was at <hi>Breakfaſt,</hi> I told one of my Lord <hi>Wharton</hi>'s Servants (to the beſt of my remembrance it was the <hi>Butler</hi>) what my Apprehenſions of Mr. <hi>Turner</hi> were, and that I did not ſee any hopes of his <hi>Recovery:</hi> But Mr. <hi>Turner</hi> being ſolely under Dr. <hi>Fry</hi>'s Care, I did not think fit to
+<pb n="108" facs="tcp:64693:63"/>ſtay any longer to neglect my <hi>Patients</hi> in <hi>London,</hi> and do him no other Service than to go up now and then, and look at him: ſo away I came without taking my leave of him; but before I went, I wiſhed the forementioned <hi>Servant,</hi> if Mr. <hi>Turner</hi> ſhould enquire after me, and know I was gone, that he would acquaint him that I was unwilling to take my leave for fear of diſturbing him. Of all that paſſed between the <hi>Servant</hi> and me, Mr. <hi>Turner</hi>'s own <hi>Son</hi> was a <hi>Witneſs,</hi> and was much concerned that his <hi>Father</hi> was not under my Care. As I was coming home, about <hi>ſix Miles</hi> on this ſide <hi>Ailesbury</hi> I met Col. <hi>Cornwel</hi> going to ſee Mr. <hi>Turner,</hi> who ſent his Man to me to enquire how he was; I made anſwer, that I hoped he was ſomewhat better, fearing that if I had told him my real Sentiments he would have preſſed me to have gone back with him; and as things
+<pb n="109" facs="tcp:64693:63"/>ſtood I did not care to return. By that time I had come about ſix Miles farther, I met Madam <hi>Turner,</hi> to whom when ſhe askt me how Mr. <hi>Turner</hi> did, upon the ſame conſide<g ref="char:EOLhyphen"/>rations I made the ſame reply I had done to Col. <hi>Cornwel.</hi> After I was gone Dr. <hi>Fry</hi> preſcribed more <hi>Lin<g ref="char:EOLhyphen"/>ſeed Oil,</hi> and a <hi>Pearl Cordial.</hi>
+            </p>
+            <p>About eight a <hi>Clock</hi> at <hi>Night,</hi> being <hi>Wedenſday,</hi> I came home, and after I had made two or three <hi>Viſits,</hi> and eat my <hi>Supper,</hi> I went to bed; I had not been in <hi>Bed</hi> half an <hi>Hour,</hi> but Col. <hi>Cornwel</hi>'s <hi>Man</hi> knockt at the Door, and deſired to ſpeak with me; When he came to me, he told me Mr. <hi>Tur<g ref="char:EOLhyphen"/>ner</hi> was much worſe than when I left him, that Dr. <hi>Fry</hi> was diſcharged, and he begged me that I would come down again to him; for that he would take nothing more from any one, but what I ſhould direct. Upon which I got a <hi>Calaſh</hi> and <hi>four Horſes</hi>
+               <pb n="110" facs="tcp:64693:64"/>as ſoon as poſſibly I could, and went down again. I got to <hi>Winchington</hi> on <hi>Thurſday</hi> about <hi>twelve</hi> a Clock, and when I came there, I found the poor <hi>Gentleman</hi> in the moſt profuſe <hi>Sweat</hi> imaginable, his <hi>Breath</hi> ſhort to the laſt degree, and almoſt no <hi>Pulſe</hi> at all: But the Pain in his <hi>Side</hi> was gone, which his <hi>Lady</hi> (who was then with him) and thoſe about him took for a good <hi>Sign:</hi> But I told them that his Shortneſs of <hi>Breath</hi> continu<g ref="char:EOLhyphen"/>ing, and his <hi>Pulſe</hi> being ſo very low, it was rather a bad one, and that he was in a moſt deplorable condition; and I appeal to every one of my <hi>Lord Wharton</hi>'s Family, who askt me how he did, whether I once gave them the leaſt Encouragement to believe that he would recover. His <hi>Shirt</hi> that he had upon him was as wet as if it had been dipt in a <hi>River,</hi> and as cold as <hi>Ice,</hi> and ſo were both the <hi>Sheets;</hi> therefore the firſt thing I did
+<pb n="111" facs="tcp:64693:64"/>was to free him from this cold wet <hi>Linen;</hi> in order to which I got as large a <hi>Fire</hi> made in the next <hi>Room</hi> as the <hi>Chimney</hi> would bear; I then ſet a <hi>Shirt</hi> and a pair of <hi>Sheets</hi> that had been before uſed, to be well aired and heated: in the mean time his Lady and her Maid with hot Nap<g ref="char:EOLhyphen"/>kins rubbed him, and made him as dry as they could; after which with all the Caution imaginable, we put on a hot dry <hi>Shirt,</hi> and took away the cold wet Sheets, and put thoſe that we had well heated and aired in their room. This matter juſt as I have related it I can have ſufficiently atteſt<g ref="char:EOLhyphen"/>ed, altho it be poſitively ſaid about the <hi>Town,</hi> that I took him out of the <hi>Sweat,</hi> and put him on clean <hi>Linen,</hi> without airing it at the <hi>Fire</hi> at all. He being prodigiouſly thirſty, begged of me that I would give him ſome<g ref="char:EOLhyphen"/>thing that might allay it; upon which I ordered them to make him
+<pb n="112" facs="tcp:64693:65"/>a Mixture of <hi>four Parts ſmall Beer, one Part VVhite-wine,</hi> ſome <hi>Juice</hi> of <hi>Lemons</hi> to make it grateful, and to ſweeten it with <hi>Loaf-ſugar;</hi> and he being a great Lover of <hi>Nutmeg,</hi> de<g ref="char:EOLhyphen"/>ſired that a little of it might be gra<g ref="char:EOLhyphen"/>ted into it, which, conſidering the <hi>Stupidneſs</hi> in his <hi>Head,</hi> I agreed to. Of this <hi>Liquor</hi> I allowed him to drink as plentifully as he pleaſed; conſider<g ref="char:EOLhyphen"/>ing the <hi>Profuſeneſs</hi> of the <hi>Sweats</hi> he had, had, I durſt not then venture to <hi>bleed</hi> him, altho his <hi>Fever</hi> was as vio<g ref="char:EOLhyphen"/>lent as ever. But to the <hi>Apothecaries</hi> I preſcribed as follows.</p>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <head>For Mr. <hi>Turner Sept. 2d,</hi> 1697.</head>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Oximel ſimp. Unc. quatuor</p>
+                     <p>Aq. Lactis Unc. ſex</p>
+                     <p>Cinnamomi fort. Dracm. ſex</p>
+                     <p>
+                        <hi>M. f. Mixtura, cap. Cochleare unum fre<g ref="char:EOLhyphen"/>quenter.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <pb n="113" facs="tcp:64693:65"/>
+                     <p>
+                        <label>℞</label> Oximel. ſquillit. Unc. duas</p>
+                     <p>Sig. <hi>Oximel of Squills.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Crem. Tart. Unc. ſem.</p>
+                     <p>Tart. Vitriolat. Dracm. unam</p>
+                     <p>Sach. Alb. unc. ſem.</p>
+                     <p>
+                        <hi>M. f. pul. in ſex Chart. diſtribuend. ex quibus cap. unam tertiâ quâque horâ in Cochlear. Syr. Aceti ſuperbibendo hauſt. Apozematis ſequentis.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Fol. Hederae terreſt.</p>
+                     <p>Flor. Hypericon, ana M. unum</p>
+                     <p>Rad. Altheae unc. duas</p>
+                     <p>Balſ. tolutani Dracm. unam</p>
+                     <p>Aq. Font. lib. tres</p>
+                     <p>
+                        <hi>bulliantur ad tertiae partis conſumption. &amp; coletur, colaturae adde</hi>
+                     </p>
+                     <p>Oximel. ſimp. unc. duas</p>
+                     <p>ſp. Nitri dul. gut <hi>30.</hi> M.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Sp. Nitri dul. Dracm. duas</p>
+                     <p>Sig. <hi>dulcified Spirit of</hi> Nitre.</p>
+                  </div>
+               </body>
+            </floatingText>
+            <pb n="114" facs="tcp:64693:66"/>
+            <p>I afterwards ſent a ſecond Preſcrip<g ref="char:EOLhyphen"/>tion, which was as follows.</p>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Sem. Pſillii</p>
+                     <p>Cydoniorum ana unc. ſem.</p>
+                     <p>
+                        <hi>ponantur in Chart. ſeparatim.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Electuarii Lenitivi unc. duas</p>
+                     <p>Crem. Tart. unc. ſem. M. f.</p>
+                     <p>
+                        <hi>Elect.</hi>
+                     </p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>This laſt <hi>Electuary</hi> was for Mr. <hi>Turner</hi>'s Man, who had ſate up ſeve<g ref="char:EOLhyphen"/>ral <hi>Nights,</hi> and complained of a great inward <hi>Heat</hi> and <hi>Coſtiveneſs;</hi> but however, becauſe it was inſerted in a <hi>Bill</hi> with Mr. <hi>Turner</hi>'s Name to it, I thought it convenient to take notice of it; tho it is no Poiſon, and if Mr. <hi>Turner</hi> had taken it himſelf, it would not have murdered him.</p>
+            <p>The forementioned things with <hi>Directions</hi> were taken as directed; and as to thoſe, for the uſe of which
+<pb n="115" facs="tcp:64693:66"/>there was no Direction given, I ſhall here give an account how they were taken.</p>
+            <p>Once in about two <hi>Hours</hi> I mixt half a <hi>Spoonful</hi> of the <hi>Oximel</hi> of <hi>Squils</hi> in a ſmall quantity of the <hi>Apozem,</hi> and gave it him. Of the dulcified Spirit of <hi>Nitre</hi> I gave him ten Drops in almoſt every Draught of <hi>Liquor</hi> he drank. As for the <hi>Flea Bean</hi> and <hi>Quince ſeeds,</hi> I had one half of them boil'd in <hi>two Quarts</hi> of <hi>VVater</hi> to the <hi>Conſumption</hi> of one half; and of this <hi>mu<g ref="char:EOLhyphen"/>laginous</hi> Decoction I now and then gave him a good Draught, it being a great <hi>Promoter</hi> of <hi>Expectoration.</hi> In the <hi>Houſe</hi> I got made up a <hi>Lambative</hi> of fine <hi>ſalad Oil</hi> and Syrup of <hi>Vinegar,</hi> and of this I ſometimes gave him a <hi>Spoonful.</hi> But all I could do availed nothing; I could by no artifice make him expectorate in any quantity, on<g ref="char:EOLhyphen"/>ly ſometimes he would diſcharge a green <hi>putrid Matter.</hi> He continued
+<pb n="116" facs="tcp:64693:67"/>to be ſhort breathed to extremity, his <hi>Fever</hi> no whit abated, his <hi>Pulſe</hi> low and irregular, and ſometimes would totally intermit for two or three ſe<g ref="char:EOLhyphen"/>conds, with a <hi>Stupidneſs</hi> in his <hi>Head.</hi>
+            </p>
+            <p>About nine a <hi>Clock</hi> he again broke out into a moſt profuſe <hi>Sweat,</hi> which I did by no means like, at which time I laid me down upon a <hi>Field Bed</hi> that was in the <hi>Room</hi> to ſleep, chooſing rather to lie ſo than go to bed, that I might be the more ready to be cal<g ref="char:EOLhyphen"/>led upon occaſion; but having travel<g ref="char:EOLhyphen"/>led near <hi>ſixſcore Miles</hi> in <hi>three days,</hi> and been <hi>two Nights</hi> upon the <hi>Road,</hi> I was very ſleepy. About <hi>eleven</hi> a <hi>Clock</hi> my Lord <hi>VVharton</hi> called Madam <hi>Turner</hi> into the next <hi>Room</hi> to conſult about ſending for Dr. <hi>Babo;</hi> ſhe left his Man ſitting upon the <hi>Bed</hi> by him, I being faſt aſleep upon the <hi>Field Bed.</hi> Whilſt Madam <hi>Turner</hi> was in the next <hi>Room</hi> with my Lord <hi>VVharton,</hi> Mr. <hi>Turner</hi> in the midſt of this profuſe
+<pb n="117" facs="tcp:64693:67"/>
+               <hi>Sweat</hi> leaps out of the <hi>Bed,</hi> and walkt round it to the <hi>Cloſe-ſtool</hi> with<g ref="char:EOLhyphen"/>out any thing but his <hi>Shirt</hi> upon him: Madam <hi>Turner</hi> hearing ſome body walk in the <hi>Room</hi> barefoot, run in to ſee what was the mattter, and found him in this poſture; ſhe was imme<g ref="char:EOLhyphen"/>diately followed by my Lord <hi>VVhar<g ref="char:EOLhyphen"/>ton</hi> and ſome others: as ſoon as Ma<g ref="char:EOLhyphen"/>dam <hi>Turner</hi> came in I awaked, and got up to help her to get him into the <hi>Bed.</hi> When he was put into <hi>Bed</hi> he laid himſelf into a Poſture, out of which he never moved till he died, which was within a very few <hi>Hours.</hi> Whether this laſt getting out of the <hi>Bed</hi> was a ſhortning of his <hi>Liſe,</hi> I cannot be poſitive, but it is very pro<g ref="char:EOLhyphen"/>bable it might. It is to be obſerved that the <hi>Night</hi> before about eleven a <hi>Clock,</hi> he was in ſuch extreme <hi>Ago<g ref="char:EOLhyphen"/>nies,</hi> that every body thought he would have died then, at which time his <hi>Nails</hi> turned <hi>bluiſh;</hi> but upon his
+<pb n="118" facs="tcp:64693:68"/>recovering himſelf (which I believe was principally occaſioned by the <hi>ſight</hi> of his <hi>Lady,</hi> who juſt then came into him) his <hi>Nails</hi> never recovered their <hi>Colour,</hi> but continued bluiſh till he died. Now the <hi>Nails</hi> not returning to their <hi>Colour</hi> was as fatal a <hi>Symptom</hi> as could be.</p>
+            <p>I am ſorry I have been forced to rake up the <hi>Aſhes</hi> of the <hi>Dead;</hi> but I having ſo often been charged with no leſs than the <hi>Murder</hi> of this <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> I have been forced to write the <hi>Caſe</hi> in my own <hi>vindication.</hi> I am ſure it was as much my Intereſt to preſerve Mr. <hi>Turner</hi> as any one Man in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> there not being one to whom I am more obliged than I was to him, he having done me a great many ſin<g ref="char:EOLhyphen"/>gular pieces of <hi>Service;</hi> and I am ſure I would have gone as far, and done as much to have ſaved his <hi>Life,</hi> as any Man could have done for his Friend.</p>
+            <p>Before I conclude upon this <hi>Subject</hi>
+               <pb n="119" facs="tcp:64693:68"/>I ſhall preſume to take notice of a thing, which happened, which was a kind of <hi>Preludium</hi> to his <hi>Death;</hi> and for ought I know the Thoughts of it might deject his <hi>Spirits,</hi> and have a fatal <hi>Influence</hi> upon him.</p>
+            <p>About <hi>April</hi> laſt Mr. <hi>Gadbury</hi> came to him, and told him, Mr. <hi>Turner,</hi> you will die in the <hi>Countrey</hi> this <hi>Sum<g ref="char:EOLhyphen"/>mer,</hi> of a <hi>Surfeit</hi> of <hi>Drinking.</hi> He received it with a <hi>Smile,</hi> and ſaid, I die with <hi>Drinking,</hi> who am the ſober<g ref="char:EOLhyphen"/>eſt <hi>Man</hi> in <hi>England?</hi> that's impoſſible. In <hi>May</hi> he went to the <hi>Bath,</hi> but be<g ref="char:EOLhyphen"/>fore he went there, he made his <hi>VVill,</hi> and was obſerved to be more melan<g ref="char:EOLhyphen"/>choly than uſual. He came back from the <hi>Bath</hi> very well, and told ſome of his Friends that Mr. <hi>Gadbury</hi> was deceived: Some time after he went to <hi>VVinchington,</hi> and juſt as he was going, one of his <hi>Friends</hi> bid him remember what Mr. <hi>Gadbury</hi> had ſaid, and beware of drinking: he ſaid he
+<pb n="120" facs="tcp:64693:69"/>would. As ſoon as he was taken ill (I ſuppoſe remembring Mr. <hi>Gadbury</hi>'s Words) he told his Son that he ſhould not recover.</p>
+         </div>
+         <div type="case_study">
+            <head>CASE <hi>II.</hi>
+            </head>
+            <p>
+               <hi>JUly</hi> the <hi>eleventh</hi> I was ſent for to Mr. <hi>Davis,</hi> a <hi>Gentleman</hi> of a very conſiderable Eſtate near <hi>Lynn</hi> in <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> who then lodged at <hi>Chelſey.</hi> He had a little before had the <hi>Small Pox,</hi> and after that a <hi>malignant Fever,</hi> hav<g ref="char:EOLhyphen"/>ing been under the care of another <hi>Phyſician,</hi> who had treated him af<g ref="char:EOLhyphen"/>ter the common Method with <hi>Alka<g ref="char:EOLhyphen"/>lies</hi> and <hi>Alexipharmicks;</hi> but his <hi>Caſe</hi> was now ſo deplorable, that his <hi>Friends</hi> deſpaired of his <hi>Recovery,</hi> ſo the for<g ref="char:EOLhyphen"/>mer <hi>Phyſician</hi> was diſcharged, and I was ſent for; when I came to him,
+<pb n="121" facs="tcp:64693:69"/>I found his <hi>Caſe</hi> as follows. He had a violent <hi>Peripneumony</hi> or <hi>Inflammation</hi> of his <hi>Lungs,</hi> his <hi>Breath</hi> being con<g ref="char:EOLhyphen"/>ſtantly very ſhort; but at ſome times he was ſo extraordinary ſhort breath<g ref="char:EOLhyphen"/>ed, that his Friends were afraid he would be ſtrangled. He had a <hi>Fever</hi> upon him to a moſt intenſe de<g ref="char:EOLhyphen"/>gree, a great <hi>Stupor</hi> and <hi>Dulneſs</hi> in his <hi>Head,</hi> a <hi>Nauſea</hi> at his <hi>Stomach,</hi> and his <hi>Pulſe</hi> very low and irregular, with a great <hi>Depreſſion</hi> and <hi>Lowneſs</hi> of his <hi>Spirits.</hi> I preſcribed for him to Mr. <hi>Baxter</hi> an <hi>Apothecary</hi> in St. <hi>Martins-lane</hi> as follows.</p>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <div type="recipe">
+                     <p>For Eſq; <hi>Davis, July</hi> the <hi>11th</hi> 97.</p>
+                     <p>
+                        <label>℞</label> Cremor. Tartari Dracm. tres</p>
+                     <p>Salis Prunellae Dracm. duas</p>
+                     <p>Ol. Cinnamomi gut. duas</p>
+                     <p>Conſ. Cynosbati Un. unam</p>
+                     <p>Syr. e Rubro Idaeo q. ſ. f. elect.</p>
+                     <p>
+                        <hi>cap. quant. Nucis Moſcatae largae tertiâ
+<pb n="122" facs="tcp:64693:70"/>quâque horâ ſuperbibendo hauſt. parvum Julap. ſequentis.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Cinnamoni Hord.</p>
+                     <p>Lactis Alex. ana Unc. ſex</p>
+                     <p>Vini rub. Gal. un. quatuor</p>
+                     <p>Syr. e rubro idaeo Unc. tres</p>
+                     <p>Ol. ſulphur. per camp. gut. xx</p>
+                     <p>
+                        <hi>M. f. Julap.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Syrup. Aceti Unc. tres</p>
+                     <p>de Roſis ſic. Unc. unam</p>
+                     <p>
+                        <hi>M. f. Mixtura, cap. Cochleare unum in omni difficultate reſpirationis.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Cinnamomi Hord. Unc. qua<g ref="char:EOLhyphen"/>tuor</p>
+                     <p>Mirabilis Unc. unam ſemis</p>
+                     <p>Syr. Garrioph. Unc. ſemis</p>
+                     <p>Conf. Alkermes Scrup. duos</p>
+                     <p>
+                        <hi>M. f. Card. cap. cochlearia quatuor vel quinque quando ſpiritus languent.</hi>
+                     </p>
+                  </div>
+               </body>
+            </floatingText>
+            <pb n="123" facs="tcp:64693:70"/>
+            <p>Beſides the foremeneioned things, I ordered him to eat <hi>Lemon</hi> and <hi>Sugar</hi> very often, and to drink <hi>Lemonade</hi> in as plentiful quantities as he pleaſed.</p>
+            <p>The next day I viſited him again, and found him much after the ſame manner he was the day before, only his difficulty of breathing ſeemed to be ſomewhat abated; the <hi>VVater</hi> he made in the <hi>Night</hi> was of a perfect <hi>Lead Colour,</hi> and his <hi>Pulſe</hi> was very low and irregular, and would ſome<g ref="char:EOLhyphen"/>times totally intermit. The <hi>Blackneſs</hi> of his <hi>VVater</hi> and <hi>Irregularity</hi> of his <hi>Pulſe</hi> made me very doubtful of his <hi>Recovery.</hi> I then preſcribed the fol<g ref="char:EOLhyphen"/>lowing <hi>Medicines.</hi>
+            </p>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Conſ. Flor. Calendulae</p>
+                     <p>Lujulae, ana Dracm. ſex</p>
+                     <p>Conf. Alkermes Dracm. unam</p>
+                     <p>Ol. Cinnamomi gut. tres</p>
+                     <p>Ol. Sulphur. per Campan. gut. <hi>xv</hi>
+                     </p>
+                     <p>Syr. Lujulae q. ſ. f. elect.</p>
+                     <pb n="124" facs="tcp:64693:71"/>
+                     <p>
+                        <hi>cap. quant. Nucis Moſcatae largae quartâ quâque horâ ſuperbibendo hauſt. Julap. ſeq.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Lactis Alex.</p>
+                     <p>Cinnam. Hord. ana Unc. decem</p>
+                     <p>Theriacalis Unc. duas</p>
+                     <p>Syr. Lujulae Unc. tres</p>
+                     <p>Ol. ſulp. per Camp. gut <hi>xv</hi>
+                     </p>
+                     <p>
+                        <hi>M. f. Julap.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Cinnamomi Hord. Unc. ſex</p>
+                     <p>Mirabilis</p>
+                     <p>Epidem. ana Unc. unam</p>
+                     <p>Syr. Garrioph. Dracm. ſex</p>
+                     <p>
+                        <hi>M. f. Cardiacum, cap. Cochlearia ſex in languoribus.</hi>
+                     </p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>The <hi>thirteenth</hi> I viſited him again, his <hi>Pulſe</hi> continued low and irregular, his <hi>Urine</hi> very black, his <hi>Fever</hi> nothing abated, but he began to expectorate a little, at which I was well pleaſed. In the Night he was taken with a <hi>Looſeneſs,</hi> which conſidering his long <hi>Illneſs</hi> before, he was not well able to bear. I preſcribed as follows.</p>
+            <pb n="125" facs="tcp:64693:71"/>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Aq. Cinnamomi Hord.</p>
+                     <p>Germ. querc. ana Unc. quatuor</p>
+                     <p>Epidem Unc. tres</p>
+                     <p>Mirabilis Unc. unam</p>
+                     <p>Theriacalis Dracm. ſex</p>
+                     <p>Conf. de Hyacyn. Drac. unam ſem.</p>
+                     <p>Syr. Garrioph. Dracm. ſex</p>
+                     <p>
+                        <hi>M. f. Julap. Cap. Cochlearia quatuor vel quinque frequenter.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Lupulor. man. unum</p>
+                     <p>Paſſular Corinth.</p>
+                     <p>Salis Marini, ana Unc. quatuor</p>
+                     <p>Aceti Acer. q. ſ. f. Cataplaſma</p>
+                     <p>Carpis applicand.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Rad. Petaſitidis Unc. tres</p>
+                     <p>Angelicae Hiſpan. Unc. ſem.</p>
+                     <p>Fol. Rutae pug. duos</p>
+                     <p>Aq. Font. lib. duas</p>
+                     <p>Aceti Acerrimi Unc. ſex</p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Infunde clauſè &amp; calidè in Vaſe terreo vi<g ref="char:EOLhyphen"/>treato per horas quatuor, &amp; coletur, cap. Unc. quatuor quartâ quâ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> horâ.</hi>
+            </p>
+            <p>The <hi>fourteenth</hi> I viſited him again;
+<pb n="126" facs="tcp:64693:72"/>his <hi>Looſneſs</hi> was quite ſtopped, he ſpit prodigiouſly, upon which his Short<g ref="char:EOLhyphen"/>neſs of <hi>Breath</hi> was almoſt totally gone; his <hi>Fever</hi> was greatly abated, and his <hi>Pulſe</hi> extreamly mended, and his <hi>Urine</hi> of a good <hi>Colour,</hi> and well digeſted. I preſcribed as follows, and alſo ordered him to take liberal<g ref="char:EOLhyphen"/>ly of his <hi>Mixture</hi> with <hi>Syrup</hi> of <hi>Vine<g ref="char:EOLhyphen"/>gar</hi> to promote his Spitting.</p>
+            <floatingText xml:lang="lat" type="recipe">
+               <body>
+                  <p>
+                     <label>℞</label> Aq. Lactis Alex.</p>
+                  <p>Cinnamomi Hord. ana Unc. decem</p>
+                  <p>Vini Rubri Unc. ſex</p>
+                  <p>Syr. Lujulae Unc. tres</p>
+                  <p>Ol. Sulphuris gut. <hi>xvi</hi>
+                  </p>
+                  <p>
+                     <hi>M. f. Julap. cap. hauſt. larg. ad libitum.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The <hi>fifteenth, ſixteenth</hi> and <hi>ſeven<g ref="char:EOLhyphen"/>teenth</hi> he continued to take the fore<g ref="char:EOLhyphen"/>mentioned things, during which time he ſpit like one in a <hi>Salivation;</hi> but he continued very weak, and having ſomething of his <hi>Fever</hi> lurking within him, the <hi>eighteenth</hi> I preſcribed the following <hi>Medicines.</hi>
+            </p>
+            <pb n="127" facs="tcp:64693:72"/>
+            <floatingText xml:lang="lat" type="recipes">
+               <body>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Conſ. Calendulae</p>
+                     <p>Lujulae ana Unc. ſemis</p>
+                     <p>Conf. de Hyacyntho Dracm. duas</p>
+                     <p>Crem. Tart. Dracm. tres</p>
+                     <p>Ol. Cinnamomi gut. duas</p>
+                     <p>Ol. ſulp. per Camp. gut. <hi>xv</hi>
+                     </p>
+                     <p>Syr. Lujulae q. ſ. f. elect.</p>
+                     <p>
+                        <hi>Cap. quant. Nucis Caſtan. tertiâ quâ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> horâ ſuperbibendo hauſt. Apozematis ſequentis.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Rad. Eringii Unc. duas</p>
+                     <p>Aq. Hordei lib. tres</p>
+                     <p>
+                        <hi>bulliatur ad tertiae partis conſumptionem, &amp; coletur, colaturae lib. unam ſem. adde</hi>
+                     </p>
+                     <p>Aq. Cinnamomi Hord.</p>
+                     <p>Vini Rubri ana Unc. quatuor</p>
+                     <p>Syr. Lujulae Unc. tres</p>
+                     <p>Ol. Sulphur per Camp. gut <hi>xx.</hi> M.</p>
+                  </div>
+                  <div type="recipe">
+                     <p>
+                        <label>℞</label> Ol. Vitriol. dul. per digeſt. fact.</p>
+                     <p>Dracm. duas cap. gut. octo in omni hauſt. potus.</p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>He continued the uſe of theſe things, and in a week's time his <hi>Fever</hi> was per<g ref="char:EOLhyphen"/>fectly
+<pb n="128" facs="tcp:64693:73"/>gone, he recovered Strength, and was perfectly free from his Short<g ref="char:EOLhyphen"/>neſs of <hi>Breath,</hi> and all the other <hi>Symp<g ref="char:EOLhyphen"/>toms</hi> that he complained of. I then preſcribed the following <hi>Purge,</hi> which was repeated two or three times at due diſtances, and he is now as <hi>hale</hi> and <hi>hearty a Man</hi> as any in <hi>England.</hi>
+            </p>
+            <floatingText xml:lang="lat" type="recipe">
+               <body>
+                  <p>
+                     <label>℞</label> Rerinae Julap. gr. decem</p>
+                  <p>Antimonii Diaphoret. gr. <hi>xii</hi>
+                  </p>
+                  <p>Crem. Tart. ſcrup. unum</p>
+                  <p>Syr. Balſ. q. ſ. f. bolus</p>
+                  <p>
+                     <hi>cap. primò manè cum regimine.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="authors_note">
+            <head>Advertiſement.</head>
+            <p>JUſt as the laſt Sheet was going to the Preſs, I me with a Book call'd <hi>Alkali vindicatum,</hi> written by Dr. <hi>Coward,</hi> being <hi>Reflections</hi> on ſeveral things in the firſt part of my Eſſay of <hi>Alkaly</hi> and <hi>Acid.</hi> How far he has overthrown my <hi>Hypotheſis</hi> I leave to all impartial <hi>Judges.</hi> For my part I don't think the <hi>Book</hi> worth a Reply: He has taken a great deal of Pains to ſhew his <hi>Learning</hi> and <hi>Gentleman-like Edu<g ref="char:EOLhyphen"/>cation</hi> in his <hi>ſcurrilous Reflections</hi> upon me; but conſidering the ſervice his <hi>Book</hi> will do me, I think I have no reaſon to be angry with him.</p>
+            <pb facs="tcp:64693:73"/>
+         </div>
+      </back>
+   </text>
+</TEI>
